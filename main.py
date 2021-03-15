@@ -30,7 +30,7 @@ test_loader = Data.DataLoader(data.MyDataSet(test_data, test_label), batch_size,
 textcnn_model = getattr(models, "TextCNN")(args)
 
 
-# train.train(train_loader, test_loader, textcnn_model, args, writer)
+train.train(train_loader, test_loader, textcnn_model, args, writer)
 
 # TransformONNX()
 zhuyin_predict(["打开这个空调", "空调关闭", "空调制冷好像坏了"], textcnn_model, args)

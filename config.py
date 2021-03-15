@@ -1,7 +1,7 @@
 class BasicConfig(object):
     cuda = True
 
-    word_number = 44
+    word_number = 1230
     label_number = 32
     save_dir = "checkpoints/"
 
