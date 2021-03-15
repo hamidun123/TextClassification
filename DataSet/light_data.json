@@ -1,0 +1,1245 @@
+[
+  {
+    "Command_word": "开关",
+    "text": "灯打开",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "开灯",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "打开灯",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "灯泡打开",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "打开客厅的灯",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "打开厨房的灯",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "灯打开吧",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "打开这个灯",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "去把灯打开",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "这里也太黑了吧让我们把灯打开",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "今天天气不好打开灯",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "把灯打开吧天已经黑了",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "把灯打开",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "不要关灯",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "这个时候就适合开灯",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "不要关闭灯哦",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "维持灯开着",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "text": "灯不要关",
+    "value": "打开"
+  },
+
+  {
+    "Command_word": "开关",
+    "text": "关灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "关掉灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "灯关闭",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "关闭灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "关闭这个灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "灯可以关闭了",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "把灯关了",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "小爱小爱关灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "关掉客厅的灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "不要开灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "关掉所有灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "不要打开灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "不要开着灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "不可以打开灯",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "text": "关掉灯吧",
+    "value": "关闭"
+  },
+
+  {
+    "Command_word": "亮度",
+    "text": "灯太暗了调亮一点",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "把灯调亮",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯亮一点",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯再亮一点",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "让灯再亮一点",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "太暗了调亮灯",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "看不出清楚啊让灯亮一点",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "把灯调亮一点",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "小度小度把灯调亮",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "让厨房的灯亮一点",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯调亮",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯变亮一点",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "让卧室灯亮一点",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯再亮一些",
+    "value": "调亮"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "把灯调亮一点点",
+    "value": "调亮"
+  },
+
+  {
+    "Command_word": "亮度",
+    "text": "让灯变暗",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "把灯调暗",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯暗一点",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "让卧室灯暗一点",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "让厕所灯暗一点",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "去把灯调暗",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯怎么这么亮调暗一点",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯要亮坏了调暗一点",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯有点太亮了调暗一点",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "None",
+    "text": "这个灯很厉害不要调暗",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "今天不要调暗灯",
+    "value": "None"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯再暗一点",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "小爱同学把灯调暗",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "灯有点太恍人了调暗一点",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "这个灯太浪费电了调暗一点",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "今天阳光很好把灯调暗吧",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "亮度",
+    "text": "要准备睡觉了把灯调暗",
+    "value": "调暗"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯可以再暗一点么",
+    "value": "None"
+  },
+
+  {
+    "Command_word": "色温",
+    "text": "把灯调成暖色",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "让灯暖一点",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "灯太冷了不好看调的再暖一点",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "灯的色温偏冷调暖一点",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "今天不适合冷色把灯调暖一点",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "让卧室灯变成暖色",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "卧室灯暖色",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "把灯变成暖色",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯可以再暖一点么",
+    "value": "None"
+  },
+  {
+    "Command_word": "色温",
+    "text": "灯调成暖色吧",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "灯太亮调成暖色",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "让灯看起来更暖一点",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "None",
+    "text": "这个时候就适合暖色",
+    "value": "None"
+  },
+  {
+    "Command_word": "色温",
+    "text": "把灯的色温调暖一点",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "让灯呈现暖色",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "将灯变成暖色",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "我不喜欢冷色的灯把它调成暖色",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "冷色的灯好难看调成暖色",
+    "value": "调暖"
+  },
+  {
+    "Command_word": "色温",
+    "text": "把冷色的灯调成暖色",
+    "value": "调暖"
+  },
+
+  {
+    "Command_word": "色温",
+    "text": "灯变成冷色",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "灯的色温冷一点",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "灯的颜色太暖了调冷一点",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "我喜欢冷一点的颜色把灯调冷",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "把客厅的灯调成冷色",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "我现在心情不好把灯调成冷色",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "让灯冷一点",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "灯的颜色冷一点",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "今天天气不错把灯调冷色",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "None",
+    "text": "今天适合冷色的灯",
+    "value": "None"
+  },
+  {
+    "Command_word": "色温",
+    "text": "灯的色温再冷一些",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "让灯的色温再冷一点吧",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "让灯变成冷色调",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "把灯设成冷色调",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "我喜欢白光让灯的颜色冷一点",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "调成冷色的灯",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "色温",
+    "text": "调成冷色温的灯",
+    "value": "调冷"
+  },
+  {
+    "Command_word": "None",
+    "text": "不要调成冷色的灯",
+    "value": "None"
+  },
+
+  {
+    "Command_word": "模式",
+    "text": "切换到日光模式",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把灯调成日光模式",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "外面天气不好把灯调成日光",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "让灯变成日光",
+    "value": "日光"
+  },
+  {
+    "Command_word": "None",
+    "text": "日光灯怎么开",
+    "value": "None"
+  },
+  {
+    "Command_word": "模式",
+    "text": "开启灯的日光模式",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把灯变成日光颜色",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "今天开启客厅灯日光模式",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把客厅变成日光",
+    "value": "日光"
+  },
+  {
+    "Command_word": "None",
+    "text": "这天气不适合日光啊",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "我喜欢灯的日光模式",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "不要开日光模式",
+    "value": "None"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯调成日光模式",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "打开卧室灯的日光",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把灯切换成日光",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把灯变成日光模式",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "打开灯的日光吧",
+    "value": "日光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯变成日光模式",
+    "value": "日光"
+  },
+
+  {
+    "Command_word": "模式",
+    "text": "开启月光模式",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "让灯变成月光颜色",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯变为月光模式",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "让灯转到浪漫的月光模式",
+    "value": "月光"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯的月光颜色好好看",
+    "value": "None"
+  },
+  {
+    "Command_word": "模式",
+    "text": "开启灯的月光",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把灯变成月光",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把灯变成月光颜色",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯月光",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯的月光模式打开",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把灯调成月光",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯变成月光颜色",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯切换到月光",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "要睡觉了打开灯的月光",
+    "value": "月光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯显示月光颜色",
+    "value": "月光"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯的月光模式很好看",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "这个灯有月光模式",
+    "value": "None"
+  },
+
+  {
+    "Command_word": "模式",
+    "text": "把灯切换到彩光",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯开启彩光",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯的彩光模式打开",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯转到彩光",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯开启彩光吧",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯转到彩光吧",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把灯切换到彩光",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "将灯的模式切换到彩光",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯的彩光打开",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯还有彩光模式呀",
+    "value": "None"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯的彩光开启",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "开启灯的彩光",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯光进入彩光模式",
+    "value": "彩光"
+  },
+  {
+    "Command_word": "None",
+    "text": "这个灯真高级还有彩光模式",
+    "value": "None"
+  },
+
+  {
+    "Command_word": "模式",
+    "text": "打开灯的温馨模式",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把灯切换到温馨模式",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯的颜色转到温馨",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "开启灯的温馨模式",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开温馨模式",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "把灯变到温馨颜色",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯开启温馨",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "我要睡觉了开启灯的温馨模式",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯的温馨模式打开",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯切换到温馨",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯的颜色切换到温馨",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "温馨"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "温馨"
+  },
+
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电视"
+  },
+
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "电脑"
+  },
+
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+  {
+    "Command_word": "模式",
+    "text": "灯打开",
+    "value": "阅读"
+  },
+
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  },
+  {
+    "Command_word": "None",
+    "text": "灯打开",
+    "value": "None"
+  }
+]

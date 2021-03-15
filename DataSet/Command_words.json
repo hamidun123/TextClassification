@@ -1,0 +1,46 @@
+[
+  {
+    "Command_word": "开关",
+    "value": ["打开","关闭"]
+  },
+  {
+    "Command_word": "模式",
+    "value": ["自动","制热", "制冷", "除湿", "送风"]
+  },
+  {
+    "Command_word": "风速",
+    "value": ["自动", "一档", "二档", "三档", "四档", "五档", "调大", "调小"]
+  },
+  {
+    "Command_word": "温度",
+    "value": ["调低", "调高", "int", "自动"]
+  },
+  {
+    "Command_word": "辅热",
+    "value": ["打开","关闭"]
+  },
+  {
+    "Command_word": "节能",
+    "value": ["打开","关闭"]
+  },
+  {
+    "Command_word": "干燥",
+    "value": ["打开","关闭"]
+  },
+  {
+    "Command_word": "睡眠",
+    "value": ["打开","关闭"]
+  },
+  {
+    "Command_word": "上下扫风",
+    "value": ["打开","关闭"]
+  },
+  {
+    "Command_word": "左右扫风",
+    "value": ["打开","关闭"]
+  },
+  {
+    "Command_word": "None",
+    "value": "None"
+  }
+]

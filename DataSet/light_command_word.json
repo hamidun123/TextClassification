@@ -1,0 +1,22 @@
+[
+  {
+    "Command_word": "开关",
+    "value": ["打开", "关闭"]
+  },
+  {
+    "Command_word": "亮度",
+    "value": ["调亮","调暗"]
+  },
+  {
+    "Command_word": "色温",
+    "value": ["调冷", "调暖"]
+  },
+  {
+    "Command_word": "模式",
+    "value": ["日光", "月光", "彩光", "温馨", "电视", "阅读", "电脑"]
+  },
+  {
+    "Command_word": "None",
+    "value": "None"
+  }
+]
