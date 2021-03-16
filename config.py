@@ -1,20 +1,33 @@
 class BasicConfig(object):
     cuda = True
 
-    word_number = 1230
     label_number = 32
+    use_syllable = False
+    if use_syllable:
+        word_number = 44
+        max_line = 65
+        id_file = "DataSet/zhuyin_2_id.json"
+        name = "syllable"
+    else:
+        word_number = 1230
+        id_file = "DataSet/zhuyin_word_2_id.json"
+        max_line = 15
+        name = "word"
     save_dir = "checkpoints/"
 
 
 class TextCNNConfig(BasicConfig):
-    model_name = "TextCNN"
+    model_name = "TextCNN" + "_" + BasicConfig.name
 
     # model parameter
-    word_vector = 256
+    word_vector = 300
     input_channel = 1
     kernel_num = 250
-    kernel_sizes = [4, 6, 9, 12]
-    dropout = 0.6
+    if BasicConfig.use_syllable:
+        kernel_sizes = [4, 6, 9, 12]
+    else:
+        kernel_sizes = [3, 4, 5]
+    dropout = 0.8
     attention = True
     reduction_ratio = 16
 
@@ -29,7 +42,7 @@ class TextCNNConfig(BasicConfig):
 
 
 class DPCNNConfig(BasicConfig):
-    model_name = "DPCNN"
+    model_name = "DPCNN" + "_" + BasicConfig.name
 
     # model parameter
     word_vector = 300
@@ -43,8 +56,9 @@ class DPCNNConfig(BasicConfig):
     weight_decay = 0.01
     record = False  # 是否记录训练日志
 
+
 class TransformerConfig(BasicConfig):
-    model_name = "Transformer"
+    model_name = "Transformer" + "_" + BasicConfig.name
 
     embedding_pretrained = None
     # model parameter
@@ -56,7 +70,6 @@ class TransformerConfig(BasicConfig):
     hidden = 2048
     num_encoder = 6
 
-
     # train parameter
     save_best = True
     batch_size = 20
@@ -66,8 +79,9 @@ class TransformerConfig(BasicConfig):
     weight_decay = 0.01
     record = False  # 是否记录训练日志
 
+
 class LSTMConfig(BasicConfig):
-    model_name = "LSTM_ATT"
+    model_name = "LSTM_ATT" + "_" + BasicConfig.name
 
     embedding_pretrained = None
     # model parameter
