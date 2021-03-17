@@ -2,7 +2,8 @@ class BasicConfig(object):
     cuda = True
 
     label_number = 32
-    use_syllable = False
+    use_syllable = True
+    noise_rate = 0.15
     if use_syllable:
         word_number = 44
         max_line = 65
@@ -95,5 +96,5 @@ class LSTMConfig(BasicConfig):
     lr = 0.001
     epochs = 300
     early_stop = 150
-    weight_decay = 0.1
+    weight_decay = 0.01
     record = False  # 是否记录训练日志

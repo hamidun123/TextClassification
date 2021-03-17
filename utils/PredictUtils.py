@@ -2,7 +2,7 @@ from utils import DataUtils
 import json
 import torch
 
-def predict(predict_sentence, sentences, model, args):
+def predict(sentences, model, args):
     label_2_id = DataUtils.get_label_2_id("DataSet/Command_words.json")
     id_2_label = {i[1]: i[0] for i in label_2_id.items()}
 
@@ -24,20 +24,21 @@ def predict(predict_sentence, sentences, model, args):
     # pad补零
     for line in sentences_num:
         for j in range(args.max_line - len(line)):
-            line.insert(0, 0)
+            line.append(0)
 
     sentences_num = torch.tensor([sentences_num], dtype=torch.long).squeeze(0)
     model.load("checkpoints/{}_best.pth".format(args.model_name))
     model.eval()
-    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-    model.cuda(device)
-    if device != "cpu":
-        sentences_num = sentences_num.cuda()
+    if args.cuda:
+        device = torch.device("cuda:0")
+        model.cuda(device)
+        if device != "cpu":
+            sentences_num = sentences_num.cuda()
     logit = model(sentences_num)
 
     results = torch.max(logit, 1)[1]
     labels = []
     for result in results:
         labels.append(id_2_label[result.item()])
-    for i in range(len(predict_sentence)):
-        print("sentence:{}, 注音：{}, predict:{}".format(predict_sentence[i], sentences[i], labels[i]))
+    for i in range(len(sentences)):
+        print("注音：{}, predict:{}".format(sentences[i], labels[i]))

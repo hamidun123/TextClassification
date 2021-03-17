@@ -11,7 +11,6 @@ class LSTM_ATT(BasicModule):
                             bidirectional=True, batch_first=True, dropout=args.dropout)
         self.tanh1 = nn.Tanh()
         self.w = nn.Parameter(torch.zeros(args.hidden_size * 2))
-        self.tanh2 = nn.Tanh()
         self.fc = nn.Linear(args.hidden_size * 2, args.label_number)
 
     def forward(self, x):

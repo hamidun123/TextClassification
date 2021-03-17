@@ -7,7 +7,7 @@ import torch.nn.functional as F
 
 def train(train_iter, dev_iter, model, args, writer):
     if args.cuda:
-        device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+        device = torch.device("cuda:0")
         model.cuda(device)
 
     optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)

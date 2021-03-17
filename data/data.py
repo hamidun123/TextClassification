@@ -1,25 +1,26 @@
 from torch.utils import data as Data
 import json
 from utils import get_label_2_id
+import numpy as np
 
 
-def get_pad_data(data_file, args):
+def get_pad_data(data_file, args, no_noise=True):
     """
     获取pad后的数据
     :param data_file: 原始文件
     :return: pad_data, data_line, label
     """
-    text, label = turn_data_2_num(data_file, args)
+    text, label = turn_data_2_num(data_file, args, no_noise)
     data_line = [len(i) for i in text]
     # pad补零
     for i in text:
         for j in range(args.max_line - len(i)):
-            i.insert(0, 0)
+            i.append(0)
     assert len(text) == len(data_line)
     return text, data_line, label
 
 
-def turn_data_2_num(data_file, args):
+def turn_data_2_num(data_file, args, no_noise=True):
     """
     将数据转为数字
     :param data_file: 原始数据
@@ -39,6 +40,13 @@ def turn_data_2_num(data_file, args):
     for i in data:
         if args.use_syllable:
             i_text = [word_2_num_padding.get(word, word_2_num_padding["UNK"]) for word in i["text"]]
+            if no_noise is False:
+                if args.noise_rate != 0:
+                    length = len(i_text)
+                    id_list = np.random.randint(0, length, int(round(length * args.noise_rate)))
+                    for id in id_list:
+                        noise = np.random.randint(0, 41)
+                        i_text[id] = noise
         else:
             i_text = [word_2_num_padding.get(word, word_2_num_padding["UNK"]) for word in i["text"].split()]
         data_text.append(i_text)

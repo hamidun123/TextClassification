@@ -15,7 +15,7 @@ def zhuyin_predict(predict_sentence, model, args):
         line = lazy_pinyin(line, style=Style.BOPOMOFO)
         zhuyin = " ".join(line)
         zhuyin_lists.append(zhuyin)
-    predict(predict_sentence, zhuyin_lists, model, args)
+    predict(zhuyin_lists, model, args)
 
 
 if __name__ == "__main__":
