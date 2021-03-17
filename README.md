@@ -1,5 +1,5 @@
 # Text Classification
-目前提供了两种模型TextCNN，DPCNN
+目前提供了TextCNN，DPCNN
 
 提供了注音转中文模型
 

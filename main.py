@@ -9,7 +9,7 @@ import config
 from torch.utils.tensorboard import SummaryWriter
 from utils.zhuyin_test import zhuyin_predict
 
-args = config.TextCNNConfig()
+args = config.LSTMConfig()
 
 if args.record:
     writer = SummaryWriter()
@@ -27,10 +27,12 @@ train_loader = Data.DataLoader(data.MyDataSet(train_data, train_label), batch_si
 test_loader = Data.DataLoader(data.MyDataSet(test_data, test_label), batch_size, True)
 
 
-textcnn_model = getattr(models, "TextCNN")(args)
+textcnn_model = getattr(models, "LSTM_ATT")(args)
 
 
-train.train(train_loader, test_loader, textcnn_model, args, writer)
+# train.train(train_loader, test_loader, textcnn_model, args, writer)
 
 # TransformONNX()
-zhuyin_predict(["让空调转到制冷", "空调风速适当", "空调制冷好像坏了"], textcnn_model, args)
+zhuyin_predict(["今天太热了空调风力开到最大", "空调温度调高一点", "今天天气不好打开空调除湿"], textcnn_model, args)
+
+

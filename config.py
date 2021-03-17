@@ -62,19 +62,18 @@ class TransformerConfig(BasicConfig):
 
     embedding_pretrained = None
     # model parameter
-    word_vector = 512
-    pad_size = 65
-    dropout = 0.8
-    dim_model = 512
+    word_vector = 256
+    dropout = 0.6
+    dim_model = 256
     num_head = 8
-    hidden = 2048
-    num_encoder = 6
+    hidden = 512
+    num_encoder = 3
 
     # train parameter
     save_best = True
     batch_size = 20
-    lr = 5e-4
-    epochs = 150
+    lr = 0.001
+    epochs = 200
     early_stop = 100
     weight_decay = 0.01
     record = False  # 是否记录训练日志
@@ -86,16 +85,15 @@ class LSTMConfig(BasicConfig):
     embedding_pretrained = None
     # model parameter
     word_vector = 256
-    dropout = 0.4
-    hidden_size = 128
-    num_layers = 2
-    hidden_size2 = 64
+    dropout = 0
+    hidden_size = 256
+    num_layers = 1
 
     # train parameter
     save_best = True
     batch_size = 20
     lr = 0.001
-    epochs = 150
-    early_stop = 100
-    weight_decay = 0.001
+    epochs = 300
+    early_stop = 150
+    weight_decay = 0.1
     record = False  # 是否记录训练日志

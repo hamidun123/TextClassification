@@ -13,14 +13,14 @@ class Transformer(BasicModule):
         else:
             self.embedding = nn.Embedding(args.word_number, args.word_vector, padding_idx=0)
 
-        self.postion_embedding = Positional_Encoding(args.word_vector, args.pad_size, args.dropout)
+        self.postion_embedding = Positional_Encoding(args.word_vector, args.max_line, args.dropout)
         self.encoder = Encoder(args.dim_model, args.num_head, args.hidden, args.dropout)
         self.encoders = nn.ModuleList([
             copy.deepcopy(self.encoder)
             # Encoder(config.dim_model, config.num_head, config.hidden, config.dropout)
             for _ in range(args.num_encoder)])
 
-        self.fc1 = nn.Linear(args.pad_size * args.dim_model, args.label_number)
+        self.fc1 = nn.Linear(args.max_line * args.dim_model, args.label_number)
         # self.fc2 = nn.Linear(config.last_hidden, config.num_classes)
         # self.fc1 = nn.Linear(config.dim_model, config.num_classes)
 

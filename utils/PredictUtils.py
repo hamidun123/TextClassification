@@ -24,7 +24,7 @@ def predict(predict_sentence, sentences, model, args):
     # pad补零
     for line in sentences_num:
         for j in range(args.max_line - len(line)):
-            line.append(0)
+            line.insert(0, 0)
 
     sentences_num = torch.tensor([sentences_num], dtype=torch.long).squeeze(0)
     model.load("checkpoints/{}_best.pth".format(args.model_name))
