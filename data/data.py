@@ -57,13 +57,14 @@ def turn_data_2_num(data_file, args, no_noise=True):
 
 
 class MyDataSet(Data.Dataset):
-    def __init__(self, data, label):
+    def __init__(self, data, label, length):
         super(MyDataSet, self).__init__()
         self.data = data
         self.label = label
+        self.length = length
 
     def __len__(self):
         return self.data.shape[0]
 
     def __getitem__(self, item):
-        return self.data[item], self.label[item]
+        return self.data[item], self.label[item], self.length[item]

@@ -22,7 +22,9 @@ def predict(sentences, model, args):
         sentences_num.append(sentence_num)
 
     # pad补零
+    length = []
     for line in sentences_num:
+        length.append(len(line))
         for j in range(args.max_line - len(line)):
             line.append(0)
 
@@ -34,7 +36,11 @@ def predict(sentences, model, args):
         model.cuda(device)
         if device != "cpu":
             sentences_num = sentences_num.cuda()
-    logit = model(sentences_num)
+
+    if args.RNN_flag:
+        logit = model(sentences_num, length)
+    else:
+        logit = model(sentences_num)
 
     results = torch.max(logit, 1)[1]
     labels = []

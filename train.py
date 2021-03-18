@@ -23,13 +23,16 @@ def train(train_iter, dev_iter, model, args, writer):
         model.train()
         for batch in train_iter:
 
-            feature, target = batch[0], batch[1]  # (W,N) (N)
+            feature, target, length = batch[0], batch[1], batch[2]  # (W,N) (N)
 
             if args.cuda:
                 feature, target = feature.cuda(), target.cuda()
 
             optimizer.zero_grad()
-            logit = model(feature)
+            if args.RNN_flag:
+                logit = model(feature, length)
+            else:
+                logit = model(feature)
             loss = F.cross_entropy(logit, target)
             loss.backward()
             optimizer.step()
@@ -68,12 +71,15 @@ def test(data_iter, model, args):
     model.eval()
     corrects, avg_loss = 0, 0
     for batch in data_iter:
-        feature, target = batch[0], batch[1]
+        feature, target, length = batch[0], batch[1], batch[2]
 
         if args.cuda:
             feature, target = feature.cuda(), target.cuda()
 
-        logit = model(feature)
+        if args.RNN_flag:
+            logit = model(feature, length)
+        else:
+            logit = model(feature)
         loss = F.cross_entropy(logit, target)
 
         avg_loss += loss.item()

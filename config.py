@@ -3,7 +3,7 @@ class BasicConfig(object):
 
     label_number = 32
     use_syllable = True
-    noise_rate = 0.15
+    noise_rate = 0.2
     if use_syllable:
         word_number = 44
         max_line = 65
@@ -19,6 +19,8 @@ class BasicConfig(object):
 
 class TextCNNConfig(BasicConfig):
     model_name = "TextCNN" + "_" + BasicConfig.name
+
+    RNN_flag = False
 
     # model parameter
     word_vector = 300
@@ -45,6 +47,8 @@ class TextCNNConfig(BasicConfig):
 class DPCNNConfig(BasicConfig):
     model_name = "DPCNN" + "_" + BasicConfig.name
 
+    RNN_flag = False
+
     # model parameter
     word_vector = 300
 
@@ -60,6 +64,8 @@ class DPCNNConfig(BasicConfig):
 
 class TransformerConfig(BasicConfig):
     model_name = "Transformer" + "_" + BasicConfig.name
+
+    RNN_flag = False
 
     embedding_pretrained = None
     # model parameter
@@ -82,6 +88,8 @@ class TransformerConfig(BasicConfig):
 
 class LSTMConfig(BasicConfig):
     model_name = "LSTM_ATT" + "_" + BasicConfig.name
+
+    RNN_flag = True
 
     embedding_pretrained = None
     # model parameter
