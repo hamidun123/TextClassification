@@ -3,6 +3,7 @@ import sys
 import torch
 import torch.autograd as autograd
 import torch.nn.functional as F
+from models import FGM, PGD
 
 
 def train(train_iter, dev_iter, model, args, writer):
@@ -17,6 +18,9 @@ def train(train_iter, dev_iter, model, args, writer):
     last_step = 0
 
     print('training...')
+    fgm = FGM.FGM(model)
+    pgd = PGD.PGD(model)
+    K = 3
     for epoch in range(1, args.epochs + 1):
         correct = 0
         total = 0
@@ -35,6 +39,28 @@ def train(train_iter, dev_iter, model, args, writer):
                 logit = model(feature)
             loss = F.cross_entropy(logit, target)
             loss.backward()
+
+            # FGM对抗训练
+            # fgm.attack()
+            # logit_adv = model(feature, length)
+            # loss_adv = F.cross_entropy(logit_adv, target)
+            # loss_adv.backward()  # 反向传播，并在正常的grad基础上，累加对抗训练的梯度
+            # fgm.restore()  # 恢复embedding参数
+
+            # PGD对抗训练
+            pgd.backup_grad()
+            for t in range(K):
+                pgd.attack(is_first_attack=(t == 0))  # 在embedding上添加对抗扰动, first attack时备份param.data
+                if t != K - 1:
+                    model.zero_grad()
+                else:
+                    pgd.restore_grad()
+                logit_adv = model(feature, length)
+                loss_adv = F.cross_entropy(logit_adv, target)
+                loss_adv.backward()  # 反向传播，并在正常的grad基础上，累加对抗训练的梯度
+            pgd.restore()  # 恢复embedding参数
+
+
             optimizer.step()
 
             result = torch.max(logit, 1)[1].view(target.size())
@@ -66,6 +92,7 @@ def train(train_iter, dev_iter, model, args, writer):
                 print('\nearly stop by {} epoch.'.format(args.early_stop))
                 break
     print("\nbest acc :{}%".format(best_acc))
+
 
 def test(data_iter, model, args):
     model.eval()

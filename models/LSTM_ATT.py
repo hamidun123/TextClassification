@@ -12,7 +12,7 @@ class LSTM_ATT(BasicModule):
         self.lstm = nn.LSTM(args.word_vector, args.hidden_size, args.num_layers,
                             bidirectional=True, batch_first=True, dropout=args.dropout)
         self.tanh1 = nn.Tanh()
-        self.w = nn.Parameter(torch.zeros(args.hidden_size * 2))
+        self.w = nn.Parameter(torch.zeros(args.hidden_size * 2), requires_grad=True)
         self.fc = nn.Linear(args.hidden_size * 2, args.label_number)
 
     def forward(self, x, length):
@@ -28,7 +28,6 @@ class LSTM_ATT(BasicModule):
         alpha = F.softmax(torch.matmul(M, self.w), dim=1).unsqueeze(-1)
         out = H * alpha
         out = torch.sum(out, 1)
-
         # linear
         out = F.relu(out)
         out = self.fc(out)
