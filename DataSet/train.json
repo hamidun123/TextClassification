@@ -2993,5 +2993,35 @@
         "Command_word": "风速",
         "text": "将空调设为自动",
         "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "text": "空调调高温度",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "text": "让空调调高温度吧",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "text": "将空调调高温度",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "text": "将空调调低温度",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "text": "空调调低温度",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "text": "让空调调低温度吧",
+        "value": "调低"
     }
 ]

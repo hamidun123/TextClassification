@@ -3,7 +3,7 @@ import json
 import torch
 
 def predict(sentences, model, args):
-    label_2_id = DataUtils.get_label_2_id("DataSet/Command_words.json")
+    label_2_id = DataUtils.get_label_2_id("DataSet/light_command_word.json")
     id_2_label = {i[1]: i[0] for i in label_2_id.items()}
 
     with open(args.id_file, "r", encoding="UTF-8") as f:

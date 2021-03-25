@@ -4,7 +4,6 @@ import data
 import train
 import models
 from utils.PredictUtils import predict
-from utils import TransformONNX
 import config
 from torch.utils.tensorboard import SummaryWriter
 from utils.zhuyin_test import zhuyin_predict
@@ -17,8 +16,8 @@ else:
     writer = None
 
 # train_data, train_length, train_label = data.get_pad_data("DataSet/train_zhuyin.json", args, no_noise=False)
-train_data_no_noise, train_length_no_noise, train_label_no_noise = data.get_pad_data("DataSet/train_zhuyin.json", args, no_noise=True)
-test_data, test_length, test_label = data.get_pad_data("DataSet/test_zhuyin.json", args, no_noise=True)
+train_data_no_noise, train_length_no_noise, train_label_no_noise = data.get_pad_data("DataSet/light_train_zhuyin.json", args, no_noise=True)
+test_data, test_length, test_label = data.get_pad_data("DataSet/light_test_zhuyin.json", args, no_noise=True)
 
 train_data = torch.tensor(train_data_no_noise, dtype=torch.long)
 test_data = torch.tensor(test_data, dtype=torch.long)
@@ -33,9 +32,9 @@ model = getattr(models, "LSTM_ATT")(args)
 
 # train.train(train_loader, test_loader, model, args, writer)
 
-zhuyin_predict(["空调打开了吗", "空调不要打开", "今天天气不好打开空调除湿"], model, args)
+zhuyin_predict(["灯打开了吗", "灯切换到彩光", "让灯再暖一点"], model, args)
 
-zhuyinlist = [" "]
+zhuyinlist = ["ㄖㄤˋ ㄞㄥ ㄗㄞˋ ㄋㄨㄢˇ ㄧˋ ㄉㄢˇ"]
 predict(zhuyinlist, model, args)
 
 

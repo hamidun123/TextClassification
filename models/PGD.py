@@ -1,5 +1,5 @@
 import torch
-class PGD():
+class PGD:
     def __init__(self, model):
         self.model = model
         self.emb_backup = {}

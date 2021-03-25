@@ -124,11 +124,20 @@ def zhuyin_2_num(file, target_file):
         print("save finish")
 
 
+def add_domain(file):
+    with open(file, "r", encoding="UTF-8") as f:
+        data = json.load(f)
+    for i in data:
+        i["domain"] = "灯"
+    with open(file, "w", encoding='UTF-8') as f:
+        json.dump(data, f, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
+
+
 if __name__ == "__main__":
-    divide_data("../DataSet/air_conditioner_data.json", "../DataSet/train.json", "../DataSet/test.json")
-    convert_to_zhuyin("../DataSet/test.json", "../DataSet/test_zhuyin.json")
-    convert_to_zhuyin("../DataSet/train.json", "../DataSet/train_zhuyin.json")
-    label_2_id = get_label_2_id("../DataSet/Command_words.json")
-    plot_data_distribute("../DataSet/air_conditioner_data.json")
-    print(label_2_id)
+    # divide_data("../DataSet/air_conditioner_data.json", "../DataSet/train0.json", "../DataSet/test0.json")
+    # convert_to_zhuyin("../DataSet/test0.json", "../DataSet/test_zhuyin0.json")
+    # convert_to_zhuyin("../DataSet/train0.json", "../DataSet/train_zhuyin0.json")
+    # label_2_id = get_label_2_id("../DataSet/Command_words.json")
+    # plot_data_distribute("../DataSet/air_conditioner_data.json")
+    # print(label_2_id)
     pass

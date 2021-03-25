@@ -26,7 +26,7 @@ def turn_data_2_num(data_file, args, no_noise=True):
     :param data_file: 原始数据
     :return: 句子编码，标签编码
     """
-    label_2_id = get_label_2_id("DataSet/Command_words.json")
+    label_2_id = get_label_2_id("DataSet/light_command_word.json")
     with open(args.id_file, "r", encoding="UTF-8") as f:
         word_2_num = json.load(f)
     word_2_num_padding = {i[0]: i[1] + 1 for i in word_2_num.items()}

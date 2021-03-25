@@ -6,7 +6,7 @@ class BasicConfig(object):
     noise_rate = 0.2
     if use_syllable:
         word_number = 44
-        max_line = 65
+        max_line = 80
         id_file = "DataSet/zhuyin_2_id.json"
         name = "syllable"
     else:
@@ -95,7 +95,7 @@ class LSTMConfig(BasicConfig):
     # model parameter
     word_vector = 256
     dropout = 0
-    hidden_size = 256
+    hidden_size = 512
     num_layers = 1
 
     # train parameter
@@ -103,6 +103,6 @@ class LSTMConfig(BasicConfig):
     batch_size = 20
     lr = 0.001
     epochs = 300
-    early_stop = 150
+    early_stop = 100
     weight_decay = 0.01
     record = False  # 是否记录训练日志
