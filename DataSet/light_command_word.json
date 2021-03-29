@@ -17,6 +17,6 @@
   },
   {
     "Command_word": "None",
-    "value": "None"
+    "value": ["None"]
   }
 ]

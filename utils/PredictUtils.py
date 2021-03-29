@@ -2,9 +2,14 @@ from utils import DataUtils
 import json
 import torch
 
+
 def predict(sentences, model, args):
-    label_2_id = DataUtils.get_label_2_id("DataSet/light_command_word.json")
-    id_2_label = {i[1]: i[0] for i in label_2_id.items()}
+    with open(args.label_file, "r", encoding="UTF-8") as f:
+        label_2_id = json.load(f)
+
+    id_2_domain = {i[1]: i[0] for i in label_2_id[0].items()}
+    id_2_command = {i[1]: i[0] for i in label_2_id[1].items()}
+    id_2_value = {i[1]: i[0] for i in label_2_id[2].items()}
 
     with open(args.id_file, "r", encoding="UTF-8") as f:
         word_2_num = json.load(f)
@@ -42,9 +47,17 @@ def predict(sentences, model, args):
     else:
         logit = model(sentences_num)
 
-    results = torch.max(logit, 1)[1]
-    labels = []
-    for result in results:
-        labels.append(id_2_label[result.item()])
+    result = []
+    for i in range(len(logit)):
+        result.append(torch.max(logit[i], 1)[1])
+    domain_labels = []
+    command_labels = []
+    value_labels = []
+    for data in result[0]:
+        domain_labels.append(id_2_domain[data.item()])
+    for data in result[1]:
+        command_labels.append(id_2_command[data.item()])
+    for data in result[2]:
+        value_labels.append(id_2_value[data.item()])
     for i in range(len(sentences)):
-        print("注音：{}, predict:{}".format(sentences[i], labels[i]))
+        print("注音：{}, predict domain:{} Command word:{} Value:{}".format(sentences[i], domain_labels[i], command_labels[i], value_labels[i]))

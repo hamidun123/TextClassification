@@ -1,0 +1,1982 @@
+[
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调调低",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度低调",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "把空调温度调低",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "请帮我把空调温度调低",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "让空调温度低一点",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "让空调温度冷一点",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "将空调温度调冷一点",
+        "value": "调低"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调制冷",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "请帮我打开空调冷风",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "帮我打开空调冷风",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "请打开空调冷风",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调制冷",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调制冷启动",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "要热死了空调制冷打开",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调设置为适宜温度",
+        "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "打开空调温度自动",
+        "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "打开空调自动温度",
+        "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度自动",
+        "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度自动吧",
+        "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度开启自动",
+        "value": "自动"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "好冷打开空调",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "请打开空调",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "打开空调系统",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "空调开启",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "有点儿热打开空调",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "小爱小爱打开空调",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "过去去把空调打开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "打开空调啊",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "空调不要关闭",
+        "value": "打开"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调调小",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调调小点",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调开的小一点",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速变小",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速调小",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风力减弱",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速减弱",
+        "value": "调小"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "请帮我关掉空调",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "将空调关闭",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "关闭车内空调",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "空调关闭",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "把空调关掉",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "不要不关闭空调",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "在我走的时候关闭空调",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "空调可以关了外面已经凉快了",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度二十七",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度调到零下九度",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调设为二十四度",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度设为十九度",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度设置到二十度",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调二十九度",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调设置到二十度",
+        "value": "int"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "把空调调大一点",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "车内空调调大",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "开大空调",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风力提高",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速增大",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速再快点",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风力再大点",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风力再猛点",
+        "value": "调大"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "调节空调",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "调节空调温度",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "天气热记得开空调",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "什么时候打开空调节能",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调风速可以自动设定",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调的制冷模式开了吗",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调的辅热打开了么",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调制冷出现了问题",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调关闭了许多",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调温度好低啊",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "今天适合开空调",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调还没有关",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调怎么还没有关闭",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调怎么自动打开了",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "这个空调没有自动模式",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调设置自动关闭",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调的送风有什么用",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调五档有点冷啊",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "这个空调最大风速太厉害了",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调最大风速会把人吹坏的",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "这就是空调最大风速吗",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "这个空调制冷速度很快的",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "这就是最高的空调温度了",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "这个空调温度设置有问题",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调怎么能设置到二十度呢",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调为什么要设置到二十度",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "这就是空调辅热的功能",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调节能开启了吗",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "开启空调节能真的能节能吗",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "这个空调干燥功能不好用",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调的送风就是有问题",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调风速已经最大了",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调风速已经最小了",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调风速还能再大一点吗",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调的最小风速怎么这么大",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "空调的节能模式也不节能啊",
+        "value": "None"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "请打开空调暖风",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调打开制热",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调工作设为制热",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调进行制热吧",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调调到制热",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调制热模式",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调设置为制热",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "今天天气不好打开空调制热",
+        "value": "制热"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速正常",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调设置到三档",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "将空调风速设置为三档",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速设到中间",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速适当",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "把空调风力设置到适当",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调开启适当风速",
+        "value": "三档"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度变高",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调的温度调高",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调的模式设到自动",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度适当增高一点",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "将空调温度调高一点",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度调大",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "空调温度提高一点",
+        "value": "调高"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "要睡觉了打开空调睡眠模式",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "好困啊打开空调睡眠",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "不要关闭空调睡眠",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "空调睡眠模式开启",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "空调转到睡眠",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "空调的睡眠功能不要关闭",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "不要关闭空调睡眠",
+        "value": "打开"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调模式自动",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "打开空调自动模式",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "我不知道选什么好空调设为自动",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调自动设置吧",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调调到自动模式",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调的模式设到自动",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调自动模式打开",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调调为除湿",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调设为除湿",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "将空调设为除湿",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "今天太潮湿了开始空调除湿",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调的模式设置到除湿",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "把空调转到除湿",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调除湿功能打开",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调调为送风",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调开送风",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调的模式设置到送风",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调开启送风模式",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调的送风可以打开了",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "打开空调的送风吧",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "空调送风打开",
+        "value": "送风"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "这天气就把空调辅热打开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "打开空调辅热吧",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "空调设为辅热",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "空调辅热开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "吧空调辅热打开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "将空调辅热打开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "空调辅热可以打开了",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "这天气应该关闭空调辅热",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "设置空调辅热为关",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "空调的辅热功能设为关闭",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "空调辅热关闭吧",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "把空调辅热关了吧",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "空调辅热模式关闭",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "将空调辅热关闭了吧",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "为了节约用电打开空调节能",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "把空调节能模式打开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "到晚上了打开空调节能",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "到晚上了打开空调节能",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "设置空调为节能",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "空调节能打开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "让空调节能功能开启",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "空调节能模式关了吧",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "今天太热了关空调节能",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "设置空调节能为关",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "空调节能关闭",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "关掉空调节能吧",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "空调节能功能关闭了把",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "空调节能开启一会儿",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "打开空调干燥",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "外面太潮湿了打开空调干燥",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "空调干燥功能打开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "空调设置为干燥",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "空调打开干燥功能",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "打开空调的干燥",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "开空调干燥",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "让空调干燥模式开启",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "今天好干啊关空调干燥",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "空调干燥关闭",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "空调干燥关了",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "空调干燥关",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "空调设为不干燥",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "空调设为不进行干燥",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "空调干燥一点用都没有关了吧",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "空调干燥不要开启",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "空调设置为上下扫风",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "打开空调上下扫风",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "设置空调上下摆风",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "空调进行上下扫风",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "空调上下扫风开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "空调开启上下扫风",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "空调上下扫风设置开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "关上空调上下扫风",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "把空调上下扫风设为关",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "命令空调停止上下扫风",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "空调关闭上下扫风",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "空调上下扫风不要打开",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "让空调上下扫风功能关闭",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "将空调上下扫风取消",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "关闭空调左右扫风",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "空调关闭左右扫风",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "空调左右扫风不要打开",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "空调左右扫风关上",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "空调左右扫风不开",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "空调左右扫风不要打开了",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "让空调左右扫风",
+        "value": "打开"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "空调左右扫风打开吧",
+        "value": "打开"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "空调左右扫风设置开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "空调左右扫风开开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "空调设置为左右扫风",
+        "value": "打开"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "空调左右扫风开着",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "起床了关闭空调睡眠",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "把空调睡眠关了吧",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "空调睡眠关闭",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "关掉空调睡眠",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "空调设为不睡眠",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "空调睡眠可以关了",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "将空调睡眠关闭",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速调到最低",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调的风速设置到最小",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速设置到最低",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风力最低",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速开到最小",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速设置到一档",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "让空调风速最低",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风力设为稍弱",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速设置到稍弱",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速二档",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "切换空调风速到二档",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风力二档",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调设置到二档",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调设置为风速四档",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速设置为四档",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调设置到第四档",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速设为稍强",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调设置较强的风速",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调开到四档风速",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调设置四档风速",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调调到五档",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调开到最大",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速开到最大",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调设到最强风速",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调的风速开到五档",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调设置到五档",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调设置到五档风速",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "将空调设为自动",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调风速自动模式开",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调的风速设为自动",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "设置空调风速为自动",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调的风速自动设定",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调设置为自动风速",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "空调自动设定风速",
+        "value": "自动"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "灯泡打开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "打开客厅的灯",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "去把灯打开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "维持灯开着",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "灯不要关",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "关掉灯",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "关掉客厅的灯",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "不要打开灯",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "不可以打开灯",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "关掉灯吧",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "灯太暗了调亮一点",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "小度小度把灯调亮",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "让厨房的灯亮一点",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "让卧室灯亮一点",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "灯再亮一些",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "让灯变暗",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "让厕所灯暗一点",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "去把灯调暗",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "灯怎么这么亮调暗一点",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "要准备睡觉了把灯调暗",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "今天不要调暗灯",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "灯可以再暗一点么",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "灯可以再暖一点么",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "日光灯怎么开",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "这天气不适合日光啊",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "我喜欢灯的日光模式",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "灯的电脑模式对护眼没有帮助",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "灯打开了吗",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "这个灯最亮可以到多少",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "怎么让灯更亮一点",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "这个灯坏了打不开",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "灯的模式都没啥用",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "灯的颜色还可以再暖一点吗",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "看看灯的开关是不是开着",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "这个房间禁止开灯",
+        "value": "None"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "让灯暖一点",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "今天不适合冷色把灯调暖一点",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "让灯呈现暖色",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "将灯变成暖色",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "冷色的灯好难看调成暖色",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "今天天气不错把灯调冷色",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "灯的色温再冷一些",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "让灯变成冷色调",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "把灯设成冷色调",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "调成冷色的灯",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "外面天气不好把灯调成日光",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "今天开启客厅灯日光模式",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "打开卧室灯的日光",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "把灯切换成日光",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "开启月光模式",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "让灯变成月光颜色",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "让灯转到浪漫的月光模式",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "把灯变成月光颜色",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "把灯切换到彩光",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "灯的彩光模式打开",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "灯转到彩光",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "将灯的模式切换到彩光",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "打开灯的温馨模式",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "把灯切换到温馨模式",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "我要睡觉了开启灯的温馨模式",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "灯的温馨模式打开",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "将灯转到温馨",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "我要看电视了打开灯的电视模式",
+        "value": "电视"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "将灯的环境调到电视",
+        "value": "电视"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "把灯切换到电视模式",
+        "value": "电视"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "将灯的颜色设置为电脑",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "要玩电脑了将灯切换到电脑模式",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "让我们打开灯的电脑模式",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "要工作了打开灯的电脑模式",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "让灯转到阅读模式",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "等的模式设置为阅读",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "灯的颜色切换到阅读",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "孩子要学习了打开灯的阅读模式",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "把灯切换到阅读模式",
+        "value": "阅读"
+    }
+]

@@ -1,7 +1,10 @@
 class BasicConfig(object):
-    cuda = True
+    cuda = False
 
-    label_number = 32
+    domain_number = 3
+    command_number = 13
+    value_number = 29
+
     use_syllable = True
     noise_rate = 0.2
     if use_syllable:
@@ -15,6 +18,7 @@ class BasicConfig(object):
         max_line = 15
         name = "word"
     save_dir = "checkpoints/"
+    label_file = "DataSet/label_2_id.json"
 
 
 class TextCNNConfig(BasicConfig):
@@ -95,12 +99,12 @@ class LSTMConfig(BasicConfig):
     # model parameter
     word_vector = 256
     dropout = 0
-    hidden_size = 512
+    hidden_size = 256
     num_layers = 1
 
     # train parameter
     save_best = True
-    batch_size = 20
+    batch_size = 40
     lr = 0.001
     epochs = 300
     early_stop = 100

@@ -1,0 +1,1982 @@
+[
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄧㄠˋ ㄉㄧ",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄉㄧ ㄉㄧㄠˋ",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄉㄧㄠˋ ㄉㄧ",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄑㄧㄥˇ ㄅㄤ ㄨㄛˇ ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄉㄧㄠˋ ㄉㄧ",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄖㄤˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄉㄧ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄖㄤˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄌㄥˇ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调低"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄐㄧㄤ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄉㄧㄠˋ ㄌㄥˇ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调低"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄓˋ ㄌㄥˇ",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄑㄧㄥˇ ㄅㄤ ㄨㄛˇ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄌㄥˇ ㄈㄥ",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄅㄤ ㄨㄛˇ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄌㄥˇ ㄈㄥ",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄑㄧㄥˇ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄌㄥˇ ㄈㄥ",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄓˋ ㄌㄥˇ",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄓˋ ㄌㄥˇ ㄑㄧˇ ㄉㄨㄥˋ",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄧㄠˋ ㄖㄜˋ ㄙˇ ㄌㄜ˙ ㄎㄨㄥ ㄊㄧㄠˊ ㄓˋ ㄌㄥˇ ㄉㄚˇ ㄎㄞ",
+        "value": "制冷"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄕˋ ㄧˊ ㄨㄣ ㄉㄨˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄗˋ ㄉㄨㄥˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄗˋ ㄉㄨㄥˋ ㄨㄣ ㄉㄨˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄗˋ ㄉㄨㄥˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄗˋ ㄉㄨㄥˋ ㄅㄚ˙",
+        "value": "自动"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄎㄞ ㄑㄧˇ ㄗˋ ㄉㄨㄥˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄏㄠˇ ㄌㄥˇ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄑㄧㄥˇ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄒㄧˋ ㄊㄨㄥˇ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄎㄞ ㄑㄧˇ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄧㄡˇ ㄉㄧㄢˇ ㄦˊ ㄖㄜˋ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄒㄧㄠˇ ㄞˋ ㄒㄧㄠˇ ㄞˋ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄍㄨㄛˋ ㄑㄩˋ ㄑㄩˋ ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄚˇ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄚ˙",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄅㄨˊ ㄧㄠˋ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄧㄠˋ ㄒㄧㄠˇ",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄧㄠˋ ㄒㄧㄠˇ ㄉㄧㄢˇ",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄎㄞ ㄉㄜ˙ ㄒㄧㄠˇ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄅㄧㄢˋ ㄒㄧㄠˇ",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄉㄧㄠˋ ㄒㄧㄠˇ",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄌㄧˋ ㄐㄧㄢˇ ㄖㄨㄛˋ",
+        "value": "调小"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄐㄧㄢˇ ㄖㄨㄛˋ",
+        "value": "调小"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄑㄧㄥˇ ㄅㄤ ㄨㄛˇ ㄍㄨㄢ ㄉㄧㄠˋ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄐㄧㄤ ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄍㄨㄢ ㄅㄧˋ ㄔㄜ ㄋㄟˋ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄨㄢ ㄉㄧㄠˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄅㄨˊ ㄧㄠˋ ㄅㄨˋ ㄍㄨㄢ ㄅㄧˋ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄗㄞˋ ㄨㄛˇ ㄗㄡˇ ㄉㄜ˙ ㄕˊ ㄏㄡˋ ㄍㄨㄢ ㄅㄧˋ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄎㄜˇ ㄧˇ ㄍㄨㄢ ㄌㄜ˙ ㄨㄞˋ ㄇㄧㄢˋ ㄧˇ ㄐㄧㄥ ㄌㄧㄤˊ ㄎㄨㄞˋ ㄌㄜ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄦˋ ㄕˊ ㄑㄧ",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄉㄧㄠˋ ㄉㄠˋ ㄌㄧㄥˊ ㄒㄧㄚˋ ㄐㄧㄡˇ ㄉㄨˋ",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄨㄟˋ ㄦˋ ㄕˊ ㄙˋ ㄉㄨˋ",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄕㄜˋ ㄨㄟˋ ㄕˊ ㄐㄧㄡˇ ㄉㄨˋ",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄦˋ ㄕˊ ㄉㄨˋ",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄦˋ ㄕˊ ㄐㄧㄡˇ ㄉㄨˋ",
+        "value": "int"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄦˋ ㄕˊ ㄉㄨˋ",
+        "value": "int"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄧㄠˋ ㄉㄚˋ ㄧ ㄉㄧㄢˇ",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄔㄜ ㄋㄟˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄧㄠˋ ㄉㄚˋ",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄞ ㄉㄚˋ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄌㄧˋ ㄊㄧˊ ㄍㄠ",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄗㄥ ㄉㄚˋ",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄗㄞˋ ㄎㄨㄞˋ ㄉㄧㄢˇ",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄌㄧˋ ㄗㄞˋ ㄉㄚˋ ㄉㄧㄢˇ",
+        "value": "调大"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄌㄧˋ ㄗㄞˋ ㄇㄥˇ ㄉㄧㄢˇ",
+        "value": "调大"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄊㄧㄠˊ ㄐㄧㄝˊ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄊㄧㄠˊ ㄐㄧㄝˊ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄊㄧㄢ ㄑㄧˋ ㄖㄜˋ ㄐㄧˋ ㄉㄜ˙ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄕㄣˊ ㄇㄜ˙ ㄕˊ ㄏㄡˋ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄎㄜˇ ㄧˇ ㄗˋ ㄉㄨㄥˋ ㄕㄜˋ ㄉㄧㄥˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄓˋ ㄌㄥˇ ㄇㄛˊ ㄕˋ ㄎㄞ ㄌㄜ˙ ㄇㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄈㄨˇ ㄖㄜˋ ㄉㄚˇ ㄎㄞ ㄌㄜ˙ ㄇㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄓˋ ㄌㄥˇ ㄔㄨ ㄒㄧㄢˋ ㄌㄜ˙ ㄨㄣˋ ㄊㄧˊ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄨㄢ ㄅㄧˋ ㄌㄜ˙ ㄒㄩˇ ㄉㄨㄛ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄏㄠˇ ㄉㄧ ㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄐㄧㄣ ㄊㄧㄢ ㄕˋ ㄏㄜˊ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄏㄞˊ ㄇㄟˊ ㄧㄡˇ ㄍㄨㄢ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄣˇ ㄇㄜ˙ ㄏㄞˊ ㄇㄟˊ ㄧㄡˇ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄣˇ ㄇㄜ˙ ㄗˋ ㄉㄨㄥˋ ㄉㄚˇ ㄎㄞ ㄌㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄓㄜˋ ㄍㄜˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄇㄟˊ ㄧㄡˇ ㄗˋ ㄉㄨㄥˋ ㄇㄛˊ ㄕˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄗˋ ㄉㄨㄥˋ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄙㄨㄥˋ ㄈㄥ ㄧㄡˇ ㄕㄣˊ ㄇㄜ˙ ㄩㄥˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨˇ ㄉㄤˋ ㄧㄡˇ ㄉㄧㄢˇ ㄌㄥˇ ㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄓㄜˋ ㄍㄜˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄟˋ ㄉㄚˋ ㄈㄥ ㄙㄨˋ ㄊㄞˋ ㄌㄧˋ ㄏㄞˋ ㄌㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄟˋ ㄉㄚˋ ㄈㄥ ㄙㄨˋ ㄏㄨㄟˋ ㄅㄚˇ ㄖㄣˊ ㄔㄨㄟ ㄏㄨㄞˋ ㄉㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄓㄜˋ ㄐㄧㄡˋ ㄕˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄟˋ ㄉㄚˋ ㄈㄥ ㄙㄨˋ ㄇㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄓㄜˋ ㄍㄜˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄓˋ ㄌㄥˇ ㄙㄨˋ ㄉㄨˋ ㄏㄣˇ ㄎㄨㄞˋ ㄉㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄓㄜˋ ㄐㄧㄡˋ ㄕˋ ㄗㄨㄟˋ ㄍㄠ ㄉㄜ˙ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄌㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄓㄜˋ ㄍㄜˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄕㄜˋ ㄓˋ ㄧㄡˇ ㄨㄣˋ ㄊㄧˊ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄣˇ ㄇㄜ˙ ㄋㄥˊ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄦˋ ㄕˊ ㄉㄨˋ ㄋㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄟˋ ㄕㄣˊ ㄇㄜ˙ ㄧㄠˋ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄦˋ ㄕˊ ㄉㄨˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄓㄜˋ ㄐㄧㄡˋ ㄕˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄉㄜ˙ ㄍㄨㄥ ㄋㄥˊ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄎㄞ ㄑㄧˇ ㄌㄜ˙ ㄇㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄞ ㄑㄧˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄓㄣ ㄉㄜ˙ ㄋㄥˊ ㄐㄧㄝˊ ㄋㄥˊ ㄇㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄓㄜˋ ㄍㄜˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ ㄍㄨㄥ ㄋㄥˊ ㄅㄨˋ ㄏㄠˇ ㄩㄥˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄙㄨㄥˋ ㄈㄥ ㄐㄧㄡˋ ㄕˋ ㄧㄡˇ ㄨㄣˋ ㄊㄧˊ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄧˇ ㄐㄧㄥ ㄗㄨㄟˋ ㄉㄚˋ ㄌㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄧˇ ㄐㄧㄥ ㄗㄨㄟˋ ㄒㄧㄠˇ ㄌㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄏㄞˊ ㄋㄥˊ ㄗㄞˋ ㄉㄚˋ ㄧ ㄉㄧㄢˇ ㄇㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄗㄨㄟˋ ㄒㄧㄠˇ ㄈㄥ ㄙㄨˋ ㄗㄣˇ ㄇㄜ˙ ㄓㄜˋ ㄇㄜ˙ ㄉㄚˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄐㄧㄝˊ ㄋㄥˊ ㄇㄛˊ ㄕˋ ㄧㄝˇ ㄅㄨˋ ㄐㄧㄝˊ ㄋㄥˊ ㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄑㄧㄥˇ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄋㄨㄢˇ ㄈㄥ",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄚˇ ㄎㄞ ㄓˋ ㄖㄜˋ",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄨㄥ ㄗㄨㄛˋ ㄕㄜˋ ㄨㄟˋ ㄓˋ ㄖㄜˋ",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄣˋ ㄒㄧㄥˊ ㄓˋ ㄖㄜˋ ㄅㄚ˙",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄧㄠˋ ㄉㄠˋ ㄓˋ ㄖㄜˋ",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄓˋ ㄖㄜˋ ㄇㄛˊ ㄕˋ",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄓˋ ㄖㄜˋ",
+        "value": "制热"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄐㄧㄣ ㄊㄧㄢ ㄊㄧㄢ ㄑㄧˋ ㄅㄨˋ ㄏㄠˇ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄓˋ ㄖㄜˋ",
+        "value": "制热"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄓㄥˋ ㄔㄤˊ",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄙㄢ ㄉㄤˋ",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄐㄧㄤ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄙㄢ ㄉㄤˋ",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄕㄜˋ ㄉㄠˋ ㄓㄨㄥ ㄐㄧㄢ",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄕˋ ㄉㄤˋ",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄌㄧˋ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄕˋ ㄉㄤˋ",
+        "value": "三档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄎㄞ ㄑㄧˇ ㄕˋ ㄉㄤˋ ㄈㄥ ㄙㄨˋ",
+        "value": "三档"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄅㄧㄢˋ ㄍㄠ",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄨㄣ ㄉㄨˋ ㄉㄧㄠˋ ㄍㄠ",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄇㄛˊ ㄕˋ ㄕㄜˋ ㄉㄠˋ ㄗˋ ㄉㄨㄥˋ",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄕˋ ㄉㄤˋ ㄗㄥ ㄍㄠ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄐㄧㄤ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄉㄧㄠˋ ㄍㄠ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄉㄧㄠˋ ㄉㄚˋ",
+        "value": "调高"
+    },
+    {
+        "Command_word": "温度",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄣ ㄉㄨˋ ㄊㄧˊ ㄍㄠ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调高"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄧㄠˋ ㄕㄨㄟˋ ㄐㄧㄠˋ ㄌㄜ˙ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ ㄇㄛˊ ㄕˋ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄏㄠˇ ㄎㄨㄣˋ ㄚ˙ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄅㄨˊ ㄧㄠˋ ㄍㄨㄢ ㄅㄧˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ ㄇㄛˊ ㄕˋ ㄎㄞ ㄑㄧˇ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄓㄨㄢˇ ㄉㄠˋ ㄕㄨㄟˋ ㄇㄧㄢˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄕㄨㄟˋ ㄇㄧㄢˊ ㄍㄨㄥ ㄋㄥˊ ㄅㄨˊ ㄧㄠˋ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄅㄨˊ ㄧㄠˋ ㄍㄨㄢ ㄅㄧˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄇㄛˊ ㄕˋ ㄗˋ ㄉㄨㄥˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄗˋ ㄉㄨㄥˋ ㄇㄛˊ ㄕˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄨㄛˇ ㄅㄨˋ ㄓ ㄉㄠˋ ㄒㄩㄢˇ ㄕㄣˊ ㄇㄜ˙ ㄏㄠˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄨㄟˋ ㄗˋ ㄉㄨㄥˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗˋ ㄉㄨㄥˋ ㄕㄜˋ ㄓˋ ㄅㄚ˙",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄧㄠˋ ㄉㄠˋ ㄗˋ ㄉㄨㄥˋ ㄇㄛˊ ㄕˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄇㄛˊ ㄕˋ ㄕㄜˋ ㄉㄠˋ ㄗˋ ㄉㄨㄥˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗˋ ㄉㄨㄥˋ ㄇㄛˊ ㄕˋ ㄉㄚˇ ㄎㄞ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄧㄠˋ ㄨㄟˋ ㄔㄨˊ ㄕ",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄨㄟˋ ㄔㄨˊ ㄕ",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄐㄧㄤ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄨㄟˋ ㄔㄨˊ ㄕ",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄐㄧㄣ ㄊㄧㄢ ㄊㄞˋ ㄔㄠˊ ㄕ ㄌㄜ˙ ㄎㄞ ㄕˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄔㄨˊ ㄕ",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄇㄛˊ ㄕˋ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄔㄨˊ ㄕ",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄓㄨㄢˇ ㄉㄠˋ ㄔㄨˊ ㄕ",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄔㄨˊ ㄕ ㄍㄨㄥ ㄋㄥˊ ㄉㄚˇ ㄎㄞ",
+        "value": "除湿"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄧㄠˋ ㄨㄟˋ ㄙㄨㄥˋ ㄈㄥ",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄎㄞ ㄙㄨㄥˋ ㄈㄥ",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄇㄛˊ ㄕˋ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄙㄨㄥˋ ㄈㄥ",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄎㄞ ㄑㄧˇ ㄙㄨㄥˋ ㄈㄥ ㄇㄛˊ ㄕˋ",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄙㄨㄥˋ ㄈㄥ ㄎㄜˇ ㄧˇ ㄉㄚˇ ㄎㄞ ㄌㄜ˙",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄙㄨㄥˋ ㄈㄥ ㄅㄚ˙",
+        "value": "送风"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄙㄨㄥˋ ㄈㄥ ㄉㄚˇ ㄎㄞ",
+        "value": "送风"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄓㄜˋ ㄊㄧㄢ ㄑㄧˋ ㄐㄧㄡˋ ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄉㄚˇ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄅㄚ˙",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄨㄟˋ ㄈㄨˇ ㄖㄜˋ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄅㄚ˙ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄉㄚˇ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄐㄧㄤ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄉㄚˇ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄎㄜˇ ㄧˇ ㄉㄚˇ ㄎㄞ ㄌㄜ˙",
+        "value": "打开"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄓㄜˋ ㄊㄧㄢ ㄑㄧˋ ㄧㄥ ㄍㄞ ㄍㄨㄢ ㄅㄧˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄕㄜˋ ㄓˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄨㄟˋ ㄍㄨㄢ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄈㄨˇ ㄖㄜˋ ㄍㄨㄥ ㄋㄥˊ ㄕㄜˋ ㄨㄟˋ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄍㄨㄢ ㄅㄧˋ ㄅㄚ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄍㄨㄢ ㄌㄜ˙ ㄅㄚ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄇㄛˊ ㄕˋ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "辅热",
+        "domain": "空调",
+        "text": "ㄐㄧㄤ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄨˇ ㄖㄜˋ ㄍㄨㄢ ㄅㄧˋ ㄌㄜ˙ ㄅㄚ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄨㄟˋ ㄌㄜ˙ ㄐㄧㄝˊ ㄩㄝ ㄩㄥˋ ㄉㄧㄢˋ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄇㄛˊ ㄕˋ ㄉㄚˇ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄉㄠˋ ㄨㄢˇ ㄕㄤˋ ㄌㄜ˙ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄉㄠˋ ㄨㄢˇ ㄕㄤˋ ㄌㄜ˙ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄕㄜˋ ㄓˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄨㄟˋ ㄐㄧㄝˊ ㄋㄥˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄉㄚˇ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄖㄤˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄍㄨㄥ ㄋㄥˊ ㄎㄞ ㄑㄧˇ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄇㄛˊ ㄕˋ ㄍㄨㄢ ㄌㄜ˙ ㄅㄚ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄐㄧㄣ ㄊㄧㄢ ㄊㄞˋ ㄖㄜˋ ㄌㄜ˙ ㄍㄨㄢ ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄕㄜˋ ㄓˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄨㄟˋ ㄍㄨㄢ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄍㄨㄢ ㄉㄧㄠˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄅㄚ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄍㄨㄥ ㄋㄥˊ ㄍㄨㄢ ㄅㄧˋ ㄌㄜ˙ ㄅㄚˇ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "节能",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄝˊ ㄋㄥˊ ㄎㄞ ㄑㄧˇ ㄧ ㄏㄨㄟˋ ㄦ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄨㄞˋ ㄇㄧㄢˋ ㄊㄞˋ ㄔㄠˊ ㄕ ㄌㄜ˙ ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ ㄍㄨㄥ ㄋㄥˊ ㄉㄚˇ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄍㄢ ㄗㄠˋ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄚˇ ㄎㄞ ㄍㄢ ㄗㄠˋ ㄍㄨㄥ ㄋㄥˊ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄍㄢ ㄗㄠˋ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄖㄤˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ ㄇㄛˊ ㄕˋ ㄎㄞ ㄑㄧˇ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄐㄧㄣ ㄊㄧㄢ ㄏㄠˇ ㄍㄢˋ ㄚ˙ ㄍㄨㄢ ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ ㄍㄨㄢ ㄌㄜ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ ㄍㄨㄢ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄨㄟˋ ㄅㄨˋ ㄍㄢˋ ㄗㄠˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄨㄟˋ ㄅㄨˋ ㄐㄧㄣˋ ㄒㄧㄥˊ ㄍㄢ ㄗㄠˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ ㄧˋ ㄉㄧㄢˇ ㄩㄥˋ ㄉㄡ ㄇㄟˊ ㄧㄡˇ ㄍㄨㄢ ㄌㄜ˙ ㄅㄚ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "干燥",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄢ ㄗㄠˋ ㄅㄨˊ ㄧㄠˋ ㄎㄞ ㄑㄧˇ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄕㄜˋ ㄓˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄤˋ ㄒㄧㄚˋ ㄅㄞˇ ㄈㄥ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄐㄧㄣˋ ㄒㄧㄥˊ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄎㄞ ㄑㄧˇ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ ㄕㄜˋ ㄓˋ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄍㄨㄢ ㄕㄤˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ ㄕㄜˋ ㄨㄟˋ ㄍㄨㄢ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄇㄧㄥˋ ㄌㄧㄥˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄊㄧㄥˊ ㄓˇ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄨㄢ ㄅㄧˋ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ ㄅㄨˊ ㄧㄠˋ ㄉㄚˇ ㄎㄞ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄖㄤˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ ㄍㄨㄥ ㄋㄥˊ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "上下扫风",
+        "domain": "空调",
+        "text": "ㄐㄧㄤ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄤˋ ㄒㄧㄚˋ ㄙㄠˇ ㄈㄥ ㄑㄩˇ ㄒㄧㄠ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄍㄨㄢ ㄅㄧˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄍㄨㄢ ㄅㄧˋ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ ㄅㄨˊ ㄧㄠˋ ㄉㄚˇ ㄎㄞ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ ㄍㄨㄢ ㄕㄤˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ ㄅㄨˋ ㄎㄞ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ ㄅㄨˊ ㄧㄠˋ ㄉㄚˇ ㄎㄞ ㄌㄜ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄖㄤˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ ㄉㄚˇ ㄎㄞ ㄅㄚ˙",
+        "value": "打开"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ ㄕㄜˋ ㄓˋ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ ㄎㄞ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "左右扫风",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗㄨㄛˇ ㄧㄡˋ ㄙㄠˇ ㄈㄥ ㄎㄞ ㄓㄜ˙",
+        "value": "打开"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄑㄧˇ ㄔㄨㄤˊ ㄌㄜ˙ ㄍㄨㄢ ㄅㄧˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄅㄚˇ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ ㄍㄨㄢ ㄌㄜ˙ ㄅㄚ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄍㄨㄢ ㄉㄧㄠˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄨㄟˋ ㄅㄨˋ ㄕㄨㄟˋ ㄇㄧㄢˊ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ ㄎㄜˇ ㄧˇ ㄍㄨㄢ ㄌㄜ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "睡眠",
+        "domain": "空调",
+        "text": "ㄐㄧㄤ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄨㄟˋ ㄇㄧㄢˊ ㄍㄨㄢ ㄅㄧˋ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄉㄧㄠˋ ㄉㄠˋ ㄗㄨㄟˋ ㄉㄧ",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄈㄥ ㄙㄨˋ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄗㄨㄟˋ ㄒㄧㄠˇ",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄗㄨㄟˋ ㄉㄧ",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄌㄧˋ ㄗㄨㄟˋ ㄉㄧ",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄎㄞ ㄉㄠˋ ㄗㄨㄟˋ ㄒㄧㄠˇ",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄧ ㄉㄤˋ",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄖㄤˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄗㄨㄟˋ ㄉㄧ",
+        "value": "一档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄌㄧˋ ㄕㄜˋ ㄨㄟˋ ㄕㄠ ㄖㄨㄛˋ",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄕㄠ ㄖㄨㄛˋ",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄦˋ ㄉㄤˋ",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄑㄧㄝˋ ㄏㄨㄢˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄉㄠˋ ㄦˋ ㄉㄤˋ",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄌㄧˋ ㄦˋ ㄉㄤˋ",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄦˋ ㄉㄤˋ",
+        "value": "二档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄈㄥ ㄙㄨˋ ㄙˋ ㄉㄤˋ",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄙˋ ㄉㄤˋ",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄉㄧˋ ㄙˋ ㄉㄤˋ",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄕㄜˋ ㄨㄟˋ ㄕㄠ ㄑㄧㄤˊ",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄐㄧㄠˋ ㄑㄧㄤˊ ㄉㄜ˙ ㄈㄥ ㄙㄨˋ",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄎㄞ ㄉㄠˋ ㄙˋ ㄉㄤˋ ㄈㄥ ㄙㄨˋ",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄙˋ ㄉㄤˋ ㄈㄥ ㄙㄨˋ",
+        "value": "四档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄧㄠˋ ㄉㄠˋ ㄨˇ ㄉㄤˋ",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄎㄞ ㄉㄠˋ ㄗㄨㄟˋ ㄉㄚˋ",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄎㄞ ㄉㄠˋ ㄗㄨㄟˋ ㄉㄚˋ",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄉㄠˋ ㄗㄨㄟˋ ㄑㄧㄤˊ ㄈㄥ ㄙㄨˋ",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄈㄥ ㄙㄨˋ ㄎㄞ ㄉㄠˋ ㄨˇ ㄉㄤˋ",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄨˇ ㄉㄤˋ",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄉㄠˋ ㄨˇ ㄉㄤˋ ㄈㄥ ㄙㄨˋ",
+        "value": "五档"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄐㄧㄤ ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄨㄟˋ ㄗˋ ㄉㄨㄥˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄗˋ ㄉㄨㄥˋ ㄇㄛˊ ㄕˋ ㄎㄞ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄈㄥ ㄙㄨˋ ㄕㄜˋ ㄨㄟˋ ㄗˋ ㄉㄨㄥˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄕㄜˋ ㄓˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄨㄟˋ ㄗˋ ㄉㄨㄥˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄉㄜ˙ ㄈㄥ ㄙㄨˋ ㄗˋ ㄉㄨㄥˋ ㄕㄜˋ ㄉㄧㄥˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄗˋ ㄉㄨㄥˋ ㄈㄥ ㄙㄨˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "风速",
+        "domain": "空调",
+        "text": "ㄎㄨㄥ ㄊㄧㄠˊ ㄗˋ ㄉㄨㄥˋ ㄕㄜˋ ㄉㄧㄥˋ ㄈㄥ ㄙㄨˋ",
+        "value": "自动"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄆㄠˋ ㄉㄚˇ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "ㄉㄚˇ ㄎㄞ ㄎㄜˋ ㄊㄧㄥ ㄉㄜ˙ ㄉㄥ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "ㄑㄩˋ ㄅㄚˇ ㄉㄥ ㄉㄚˇ ㄎㄞ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "ㄨㄟˊ ㄔˊ ㄉㄥ ㄎㄞ ㄓㄜ˙",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄅㄨˊ ㄧㄠˋ ㄍㄨㄢ",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "ㄍㄨㄢ ㄉㄧㄠˋ ㄉㄥ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "ㄍㄨㄢ ㄉㄧㄠˋ ㄎㄜˋ ㄊㄧㄥ ㄉㄜ˙ ㄉㄥ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "ㄅㄨˊ ㄧㄠˋ ㄉㄚˇ ㄎㄞ ㄉㄥ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "ㄅㄨˋ ㄎㄜˇ ㄧˇ ㄉㄚˇ ㄎㄞ ㄉㄥ",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "domain": "灯",
+        "text": "ㄍㄨㄢ ㄉㄧㄠˋ ㄉㄥ ㄅㄚ˙",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄊㄞˋ ㄢˋ ㄌㄜ˙ ㄉㄧㄠˋ ㄌㄧㄤˋ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "ㄒㄧㄠˇ ㄉㄨˋ ㄒㄧㄠˇ ㄉㄨˋ ㄅㄚˇ ㄉㄥ ㄉㄧㄠˋ ㄌㄧㄤˋ",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄔㄨˊ ㄈㄤˊ ㄉㄜ˙ ㄉㄥ ㄌㄧㄤˋ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄨㄛˋ ㄕˋ ㄉㄥ ㄌㄧㄤˋ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄗㄞˋ ㄌㄧㄤˋ ㄧ ㄒㄧㄝ",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄉㄥ ㄅㄧㄢˋ ㄢˋ",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄘㄜˋ ㄙㄨㄛˇ ㄉㄥ ㄢˋ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "ㄑㄩˋ ㄅㄚˇ ㄉㄥ ㄉㄧㄠˋ ㄢˋ",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄗㄣˇ ㄇㄜ˙ ㄓㄜˋ ㄇㄜ˙ ㄌㄧㄤˋ ㄉㄧㄠˋ ㄢˋ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "domain": "灯",
+        "text": "ㄧㄠˋ ㄓㄨㄣˇ ㄅㄟˋ ㄕㄨㄟˋ ㄐㄧㄠˋ ㄌㄜ˙ ㄅㄚˇ ㄉㄥ ㄉㄧㄠˋ ㄢˋ",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄐㄧㄣ ㄊㄧㄢ ㄅㄨˊ ㄧㄠˋ ㄉㄧㄠˋ ㄢˋ ㄉㄥ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄎㄜˇ ㄧˇ ㄗㄞˋ ㄢˋ ㄧˋ ㄉㄧㄢˇ ㄇㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄎㄜˇ ㄧˇ ㄗㄞˋ ㄋㄨㄢˇ ㄧˋ ㄉㄧㄢˇ ㄇㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄖˋ ㄍㄨㄤ ㄉㄥ ㄗㄣˇ ㄇㄜ˙ ㄎㄞ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄓㄜˋ ㄊㄧㄢ ㄑㄧˋ ㄅㄨˊ ㄕˋ ㄏㄜˊ ㄖˋ ㄍㄨㄤ ㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄨㄛˇ ㄒㄧˇ ㄏㄨㄢ ㄉㄥ ㄉㄜ˙ ㄖˋ ㄍㄨㄤ ㄇㄛˊ ㄕˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄉㄜ˙ ㄉㄧㄢˋ ㄋㄠˇ ㄇㄛˊ ㄕˋ ㄉㄨㄟˋ ㄏㄨˋ ㄧㄢˇ ㄇㄟˊ ㄧㄡˇ ㄅㄤ ㄓㄨˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄉㄚˇ ㄎㄞ ㄌㄜ˙ ㄇㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄓㄜˋ ㄍㄜˋ ㄉㄥ ㄗㄨㄟˋ ㄌㄧㄤˋ ㄎㄜˇ ㄧˇ ㄉㄠˋ ㄉㄨㄛ ㄕㄠˇ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄗㄣˇ ㄇㄜ˙ ㄖㄤˋ ㄉㄥ ㄍㄥˋ ㄌㄧㄤˋ ㄧˋ ㄉㄧㄢˇ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄓㄜˋ ㄍㄜˋ ㄉㄥ ㄏㄨㄞˋ ㄌㄜ˙ ㄉㄚˇ ㄅㄨˋ ㄎㄞ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄉㄜ˙ ㄇㄛˊ ㄕˋ ㄉㄡ ㄇㄟˊ ㄕㄚˊ ㄩㄥˋ",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄉㄜ˙ ㄧㄢˊ ㄙㄜˋ ㄏㄞˊ ㄎㄜˇ ㄧˇ ㄗㄞˋ ㄋㄨㄢˇ ㄧˋ ㄉㄧㄢˇ ㄇㄚ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄎㄢˋ ㄎㄢˋ ㄉㄥ ㄉㄜ˙ ㄎㄞ ㄍㄨㄢ ㄕˋ ㄅㄨˊ ㄕˋ ㄎㄞ ㄓㄜ˙",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "domain": "灯",
+        "text": "ㄓㄜˋ ㄍㄜˋ ㄈㄤˊ ㄐㄧㄢ ㄐㄧㄣˋ ㄓˇ ㄎㄞ ㄉㄥ",
+        "value": "None"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄉㄥ ㄋㄨㄢˇ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "ㄐㄧㄣ ㄊㄧㄢ ㄅㄨˊ ㄕˋ ㄏㄜˊ ㄌㄥˇ ㄙㄜˋ ㄅㄚˇ ㄉㄥ ㄉㄧㄠˋ ㄋㄨㄢˇ ㄧˋ ㄉㄧㄢˇ",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄉㄥ ㄔㄥˊ ㄒㄧㄢˋ ㄋㄨㄢˇ ㄙㄜˋ",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "ㄐㄧㄤ ㄉㄥ ㄅㄧㄢˋ ㄔㄥˊ ㄋㄨㄢˇ ㄙㄜˋ",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "ㄌㄥˇ ㄙㄜˋ ㄉㄜ˙ ㄉㄥ ㄏㄠˇ ㄋㄢˊ ㄎㄢˋ ㄉㄧㄠˋ ㄔㄥˊ ㄋㄨㄢˇ ㄙㄜˋ",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "ㄐㄧㄣ ㄊㄧㄢ ㄊㄧㄢ ㄑㄧˋ ㄅㄨˋ ㄘㄨㄛˋ ㄅㄚˇ ㄉㄥ ㄉㄧㄠˋ ㄌㄥˇ ㄙㄜˋ",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄉㄜ˙ ㄙㄜˋ ㄨㄣ ㄗㄞˋ ㄌㄥˇ ㄧ ㄒㄧㄝ",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄉㄥ ㄅㄧㄢˋ ㄔㄥˊ ㄌㄥˇ ㄙㄜˋ ㄉㄧㄠˋ",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "ㄅㄚˇ ㄉㄥ ㄕㄜˋ ㄔㄥˊ ㄌㄥˇ ㄙㄜˋ ㄉㄧㄠˋ",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "domain": "灯",
+        "text": "ㄉㄧㄠˋ ㄔㄥˊ ㄌㄥˇ ㄙㄜˋ ㄉㄜ˙ ㄉㄥ",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄨㄞˋ ㄇㄧㄢˋ ㄊㄧㄢ ㄑㄧˋ ㄅㄨˋ ㄏㄠˇ ㄅㄚˇ ㄉㄥ ㄉㄧㄠˋ ㄔㄥˊ ㄖˋ ㄍㄨㄤ",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄐㄧㄣ ㄊㄧㄢ ㄎㄞ ㄑㄧˇ ㄎㄜˋ ㄊㄧㄥ ㄉㄥ ㄖˋ ㄍㄨㄤ ㄇㄛˊ ㄕˋ",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄉㄚˇ ㄎㄞ ㄨㄛˋ ㄕˋ ㄉㄥ ㄉㄜ˙ ㄖˋ ㄍㄨㄤ",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄅㄚˇ ㄉㄥ ㄑㄧㄝˋ ㄏㄨㄢˋ ㄔㄥˊ ㄖˋ ㄍㄨㄤ",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄎㄞ ㄑㄧˇ ㄩㄝˋ ㄍㄨㄤ ㄇㄛˊ ㄕˋ",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄉㄥ ㄅㄧㄢˋ ㄔㄥˊ ㄩㄝˋ ㄍㄨㄤ ㄧㄢˊ ㄙㄜˋ",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄉㄥ ㄓㄨㄢˇ ㄉㄠˋ ㄌㄤˋ ㄇㄢˋ ㄉㄜ˙ ㄩㄝˋ ㄍㄨㄤ ㄇㄛˊ ㄕˋ",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄅㄚˇ ㄉㄥ ㄅㄧㄢˋ ㄔㄥˊ ㄩㄝˋ ㄍㄨㄤ ㄧㄢˊ ㄙㄜˋ",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄅㄚˇ ㄉㄥ ㄑㄧㄝˋ ㄏㄨㄢˋ ㄉㄠˋ ㄘㄞˇ ㄍㄨㄤ",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄉㄜ˙ ㄘㄞˇ ㄍㄨㄤ ㄇㄛˊ ㄕˋ ㄉㄚˇ ㄎㄞ",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄓㄨㄢˇ ㄉㄠˋ ㄘㄞˇ ㄍㄨㄤ",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄐㄧㄤ ㄉㄥ ㄉㄜ˙ ㄇㄛˊ ㄕˋ ㄑㄧㄝˋ ㄏㄨㄢˋ ㄉㄠˋ ㄘㄞˇ ㄍㄨㄤ",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄉㄚˇ ㄎㄞ ㄉㄥ ㄉㄜ˙ ㄨㄣ ㄒㄧㄣ ㄇㄛˊ ㄕˋ",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄅㄚˇ ㄉㄥ ㄑㄧㄝˋ ㄏㄨㄢˋ ㄉㄠˋ ㄨㄣ ㄒㄧㄣ ㄇㄛˊ ㄕˋ",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄨㄛˇ ㄧㄠˋ ㄕㄨㄟˋ ㄐㄧㄠˋ ㄌㄜ˙ ㄎㄞ ㄑㄧˇ ㄉㄥ ㄉㄜ˙ ㄨㄣ ㄒㄧㄣ ㄇㄛˊ ㄕˋ",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄉㄜ˙ ㄨㄣ ㄒㄧㄣ ㄇㄛˊ ㄕˋ ㄉㄚˇ ㄎㄞ",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄐㄧㄤ ㄉㄥ ㄓㄨㄢˇ ㄉㄠˋ ㄨㄣ ㄒㄧㄣ",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄨㄛˇ ㄧㄠˋ ㄎㄢˋ ㄉㄧㄢˋ ㄕˋ ㄌㄜ˙ ㄉㄚˇ ㄎㄞ ㄉㄥ ㄉㄜ˙ ㄉㄧㄢˋ ㄕˋ ㄇㄛˊ ㄕˋ",
+        "value": "电视"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄐㄧㄤ ㄉㄥ ㄉㄜ˙ ㄏㄨㄢˊ ㄐㄧㄥˋ ㄉㄧㄠˋ ㄉㄠˋ ㄉㄧㄢˋ ㄕˋ",
+        "value": "电视"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄅㄚˇ ㄉㄥ ㄑㄧㄝˋ ㄏㄨㄢˋ ㄉㄠˋ ㄉㄧㄢˋ ㄕˋ ㄇㄛˊ ㄕˋ",
+        "value": "电视"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄐㄧㄤ ㄉㄥ ㄉㄜ˙ ㄧㄢˊ ㄙㄜˋ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄉㄧㄢˋ ㄋㄠˇ",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄧㄠˋ ㄨㄢˊ ㄉㄧㄢˋ ㄋㄠˇ ㄌㄜ˙ ㄐㄧㄤ ㄉㄥ ㄑㄧㄝˋ ㄏㄨㄢˋ ㄉㄠˋ ㄉㄧㄢˋ ㄋㄠˇ ㄇㄛˊ ㄕˋ",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄨㄛˇ ㄇㄣ˙ ㄉㄚˇ ㄎㄞ ㄉㄥ ㄉㄜ˙ ㄉㄧㄢˋ ㄋㄠˇ ㄇㄛˊ ㄕˋ",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄧㄠˋ ㄍㄨㄥ ㄗㄨㄛˋ ㄌㄜ˙ ㄉㄚˇ ㄎㄞ ㄉㄥ ㄉㄜ˙ ㄉㄧㄢˋ ㄋㄠˇ ㄇㄛˊ ㄕˋ",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄖㄤˋ ㄉㄥ ㄓㄨㄢˇ ㄉㄠˋ ㄩㄝˋ ㄉㄨˊ ㄇㄛˊ ㄕˋ",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄉㄥˇ ㄉㄜ˙ ㄇㄛˊ ㄕˋ ㄕㄜˋ ㄓˋ ㄨㄟˋ ㄩㄝˋ ㄉㄨˊ",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄉㄥ ㄉㄜ˙ ㄧㄢˊ ㄙㄜˋ ㄑㄧㄝˋ ㄏㄨㄢˋ ㄉㄠˋ ㄩㄝˋ ㄉㄨˊ",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄏㄞˊ ㄗ˙ ㄧㄠˋ ㄒㄩㄝˊ ㄒㄧˊ ㄌㄜ˙ ㄉㄚˇ ㄎㄞ ㄉㄥ ㄉㄜ˙ ㄩㄝˋ ㄉㄨˊ ㄇㄛˊ ㄕˋ",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "domain": "灯",
+        "text": "ㄅㄚˇ ㄉㄥ ㄑㄧㄝˋ ㄏㄨㄢˋ ㄉㄠˋ ㄩㄝˋ ㄉㄨˊ ㄇㄛˊ ㄕˋ",
+        "value": "阅读"
+    }
+]

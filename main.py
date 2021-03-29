@@ -15,26 +15,27 @@ if args.record:
 else:
     writer = None
 
-# train_data, train_length, train_label = data.get_pad_data("DataSet/train_zhuyin.json", args, no_noise=False)
-train_data_no_noise, train_length_no_noise, train_label_no_noise = data.get_pad_data("DataSet/light_train_zhuyin.json", args, no_noise=True)
-test_data, test_length, test_label = data.get_pad_data("DataSet/light_test_zhuyin.json", args, no_noise=True)
+train_data, train_length, train_domain, train_command, train_value = data.get_pad_data("DataSet/joint_data"
+                                                                                       "/train_zhuyin.json", args,
+                                                                                       no_noise=True)
+test_data, test_length, test_domain, test_command, test_value = data.get_pad_data("DataSet/joint_data/test_zhuyin.json", args, no_noise=True)
 
-train_data = torch.tensor(train_data_no_noise, dtype=torch.long)
+train_data = torch.tensor(train_data, dtype=torch.long)
 test_data = torch.tensor(test_data, dtype=torch.long)
 
 batch_size = args.batch_size
-train_loader = Data.DataLoader(data.MyDataSet(train_data, train_label_no_noise, train_length_no_noise), batch_size, True)
-test_loader = Data.DataLoader(data.MyDataSet(test_data, test_label, test_length), batch_size, True)
+train_loader = Data.DataLoader(data.MyDataSet(train_data, train_length, train_domain, train_command, train_value), batch_size, True)
+test_loader = Data.DataLoader(data.MyDataSet(test_data, test_length, test_domain, test_command, test_value), batch_size, True)
 
 
 model = getattr(models, "LSTM_ATT")(args)
 
 
-# train.train(train_loader, test_loader, model, args, writer)
+train.train(train_loader, test_loader, model, args, writer)
 
-zhuyin_predict(["灯打开了吗", "灯切换到彩光", "让灯再暖一点"], model, args)
+zhuyin_predict(["空调风速还可以再高一点吗", "让空调风速再强一点", "空调调高温度"], model, args)
 
-zhuyinlist = ["ㄖㄤˋ ㄞㄥ ㄗㄞˋ ㄋㄨㄢˇ ㄧˋ ㄉㄢˇ"]
+zhuyinlist = ["ㄖㄤˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄥˋ ㄉㄨㄥˋ"]
 predict(zhuyinlist, model, args)
 
 

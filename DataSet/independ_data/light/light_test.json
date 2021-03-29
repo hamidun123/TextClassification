@@ -1,0 +1,372 @@
+[
+    {
+        "Command_word": "开关",
+        "text": "灯打开",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "text": "打开厨房的灯",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "text": "把灯打开吧天已经黑了",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "text": "不要关灯",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "text": "不要关闭灯哦",
+        "value": "打开"
+    },
+    {
+        "Command_word": "开关",
+        "text": "关闭这个灯",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "text": "灯可以关闭了",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "text": "把灯关了",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "text": "关掉所有灯",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "开关",
+        "text": "不要开着灯",
+        "value": "关闭"
+    },
+    {
+        "Command_word": "亮度",
+        "text": "灯再亮一点",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "text": "太暗了调亮灯",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "text": "灯变亮一点",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "text": "让卧室灯亮一点",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "text": "灯再亮一些",
+        "value": "调亮"
+    },
+    {
+        "Command_word": "亮度",
+        "text": "灯暗一点",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "text": "灯要亮坏了调暗一点",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "text": "灯有点太亮了调暗一点",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "text": "这个灯太浪费电了调暗一点",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "亮度",
+        "text": "要准备睡觉了把灯调暗",
+        "value": "调暗"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯可以再暗一点么",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯可以再暖一点么",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "这个时候就适合暖色",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "不要调成冷色的灯",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "这天气不适合日光啊",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯的月光颜色好好看",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯的电视模式没有用",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯的电视模式是啥啊",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯可以打开电脑模式吗",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯的电脑模式对护眼没有帮助",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "让灯再亮一会儿",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯已经不能再暗了",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯已经很亮了",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯的颜色还可以再亮一点吗",
+        "value": "None"
+    },
+    {
+        "Command_word": "None",
+        "text": "灯可以打开吗",
+        "value": "None"
+    },
+    {
+        "Command_word": "色温",
+        "text": "灯的色温偏冷调暖一点",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "text": "今天不适合冷色把灯调暖一点",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "text": "卧室灯暖色",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "text": "灯调成暖色吧",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "text": "把灯的色温调暖一点",
+        "value": "调暖"
+    },
+    {
+        "Command_word": "色温",
+        "text": "我喜欢冷一点的颜色把灯调冷",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "text": "让灯冷一点",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "text": "让灯的色温再冷一点吧",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "text": "让灯变成冷色调",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "色温",
+        "text": "把灯设成冷色调",
+        "value": "调冷"
+    },
+    {
+        "Command_word": "模式",
+        "text": "切换到日光模式",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "把灯调成日光模式",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "外面天气不好把灯调成日光",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "把灯切换成日光",
+        "value": "日光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "把灯变成月光颜色",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯的月光模式打开",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯变成月光颜色",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "要睡觉了打开灯的月光",
+        "value": "月光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯开启彩光吧",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯转到彩光吧",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯的彩光开启",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯光进入彩光模式",
+        "value": "彩光"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯开启温馨",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯切换到温馨",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯的颜色切换到温馨",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "text": "让灯变温馨一点",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "text": "让灯颜色再温馨一点",
+        "value": "温馨"
+    },
+    {
+        "Command_word": "模式",
+        "text": "将灯切换到电视",
+        "value": "电视"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯的模式设置为电视",
+        "value": "电视"
+    },
+    {
+        "Command_word": "模式",
+        "text": "打开灯的电视模式",
+        "value": "电视"
+    },
+    {
+        "Command_word": "模式",
+        "text": "将灯切换到电脑",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "text": "将灯的颜色设置为电脑",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "text": "让灯的模式设置为电脑",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "text": "将灯切换到电脑模式",
+        "value": "电脑"
+    },
+    {
+        "Command_word": "模式",
+        "text": "灯可以开启阅读了",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "text": "让灯开启阅读模式",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "text": "让灯开启阅读模式",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "text": "孩子要学习了打开灯的阅读模式",
+        "value": "阅读"
+    },
+    {
+        "Command_word": "模式",
+        "text": "把灯切换到阅读模式",
+        "value": "阅读"
+    }
+]

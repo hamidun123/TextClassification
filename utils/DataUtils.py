@@ -6,47 +6,31 @@ import sys
 from pypinyin import lazy_pinyin, Style
 
 
-def get_label_2_id(label_file):
-    """
-    获取label_2_id
-    :param label_file: 标签文件
-    :return: label_2_id
-    """
-    with open(label_file, "r", encoding="UTF-8") as f:
-        command_data = json.load(f)
-    command_value_list = []
-    for i in range(len(command_data)):
-        command_value_list.append([command_data[i]["Command_word"]])
-        for j in command_data[i]["value"]:
-            command_value_list[i].append(j)
-    label_list = []
-    for i in command_value_list[0:-1]:
-        for j in i[1::]:
-            label = i[0] + j
-            label_list.append(label)
-    label_list.append("NoneNone")
+def label_2_id(file_lists):
+    command_word = []
+    domain = ["空调", "灯", "None"]
+    value = []
+    for flie in file_lists:
+        with open(flie, "r", encoding="UTF-8") as f:
+            command_data = json.load(f)
+        for data in command_data:
+            command_word.append(data["Command_word"])
+            for v in data["value"]:
+                value.append(v)
+    value = sorted(set(value), key=value.index)
+    command_word = sorted(set(command_word), key=command_word.index)
 
-    id_list = [i for i in range(len(label_list))]
-    label_2_id = dict(zip(label_list, id_list))
-    return label_2_id
+    id_list = [i for i in range(len(command_word))]
+    command_word_dict = dict(zip(command_word, id_list))
+    id_list = [i for i in range(len(value))]
+    value_dict = dict(zip(value, id_list))
+    id_list = [i for i in range(len(domain))]
+    domain_dict = dict(zip(domain, id_list))
 
-
-def plot_data_distribute(data):
-    """
-    画出数据分布
-    :param data: 数据路径 要求json格式
-    :return:None
-    """
-    with open(data, "r", encoding="UTF-8") as f:
-        data = json.load(f)
-    label_2_id = get_label_2_id("../DataSet/Command_words.json")
-    data_label = np.zeros(len(label_2_id))
-    print(len(data))
-    for i in data:
-        i_label = i["Command_word"] + i["value"]
-        data_label[label_2_id[i_label]] += 1
-    plt.bar(range(len(data_label)), data_label)
-    plt.show()
+    with open("../DataSet/label_2_id.json", "w", encoding="UTF-8") as f:
+        json.dump(domain_dict, f, ensure_ascii=False, indent=4, separators=(',', ': '))
+        json.dump(command_word_dict, f, ensure_ascii=False, indent=4, separators=(',', ': '))
+        json.dump(value_dict, f, ensure_ascii=False, indent=4, separators=(',', ': '))
 
 
 def divide_data(origin_data_file, train_data_file, test_data_file):
@@ -134,9 +118,9 @@ def add_domain(file):
 
 
 if __name__ == "__main__":
-    # divide_data("../DataSet/air_conditioner_data.json", "../DataSet/train0.json", "../DataSet/test0.json")
-    # convert_to_zhuyin("../DataSet/test0.json", "../DataSet/test_zhuyin0.json")
-    # convert_to_zhuyin("../DataSet/train0.json", "../DataSet/train_zhuyin0.json")
+    # divide_data("../DataSet/air_conditioner_data.json", "../DataSet/train.json", "../DataSet/test.json")
+    # convert_to_zhuyin("../DataSet/test.json", "../DataSet/test_zhuyin.json")
+    # convert_to_zhuyin("../DataSet/train.json", "../DataSet/train_zhuyin.json")
     # label_2_id = get_label_2_id("../DataSet/Command_words.json")
     # plot_data_distribute("../DataSet/air_conditioner_data.json")
     # print(label_2_id)
