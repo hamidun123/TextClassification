@@ -7,9 +7,9 @@ def predict(sentences, model, args):
     with open(args.label_file, "r", encoding="UTF-8") as f:
         label_2_id = json.load(f)
 
-    id_2_domain = {i[1]: i[0] for i in label_2_id[0].items()}
-    id_2_command = {i[1]: i[0] for i in label_2_id[1].items()}
-    id_2_value = {i[1]: i[0] for i in label_2_id[2].items()}
+    id_2_domain = {i[1]: i[0] for i in label_2_id["domain"].items()}
+    id_2_command = {i[1]: i[0] for i in label_2_id["command"].items()}
+    id_2_value = {i[1]: i[0] for i in label_2_id["value"].items()}
 
     with open(args.id_file, "r", encoding="UTF-8") as f:
         word_2_num = json.load(f)

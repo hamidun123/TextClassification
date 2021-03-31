@@ -16,7 +16,7 @@ class LSTM_ATT(BasicModule):
         self.fc_domain = nn.Linear(args.hidden_size * 2, args.domain_number)
 
         self.w_command = nn.Parameter(torch.zeros(args.hidden_size * 2), requires_grad=True)
-        self.fc_command = nn.Linear(args.hidden_size * 4, args.command_number)
+        self.fc_command = nn.Linear(args.hidden_size * 2, args.command_number)
 
         self.w_value = nn.Parameter(torch.zeros(args.hidden_size * 2), requires_grad=True)
         self.fc_value = nn.Linear(args.hidden_size * 4, args.value_number)
@@ -42,8 +42,7 @@ class LSTM_ATT(BasicModule):
         alpha1 = F.softmax(torch.matmul(M, self.w_command), dim=1).unsqueeze(-1)
         out1 = H * alpha1
         out1 = torch.sum(out1, 1)
-        out_command = torch.cat((out1, out0), dim=1)
-        out_command = F.relu(out_command)
+        out_command = F.relu(out1)
         command_out = self.fc_command(out_command)
 
         # value

@@ -1,5 +1,5 @@
 class BasicConfig(object):
-    cuda = False
+    cuda = True
 
     domain_number = 3
     command_number = 13
@@ -106,7 +106,7 @@ class LSTMConfig(BasicConfig):
     save_best = True
     batch_size = 40
     lr = 0.001
-    epochs = 300
+    epochs = 200
     early_stop = 100
     weight_decay = 0.01
     record = False  # 是否记录训练日志

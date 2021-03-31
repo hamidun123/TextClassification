@@ -1,0 +1,600 @@
+[
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "打开空气净化器",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "空气净化器打开",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "将空气净化器打开",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "空气净化器开",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "开空气净化器",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "空气质量太差了打开空气净化器",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "让我们打开空气净化器",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "把这个空气净化器打开",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "将空气净化器设置为开",
+    "value": "打开"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "快去打开空气净化器",
+    "value": "打开"
+  },
+
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "关掉空气净化器",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "关了空气净化器",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "关上空气净化器",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "将空气净化器关闭",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "将空气净化器关",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "关闭空气净化器",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "让空气净化器关",
+    "value": "关闭"
+  },
+  {
+    "Command_word": "开关",
+    "domain": "空气净化器",
+    "text": "把空气净化器关闭",
+    "value": "关闭"
+  },
+
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速自动",
+    "value": "自动"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速自动设定",
+    "value": "自动"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "把空气净化器风速设为自动",
+    "value": "自动"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器设置为自动风速",
+    "value": "自动"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "自动设定空气净化器风速",
+    "value": "自动"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让我们设定空气净化器风速为自动",
+    "value": "自动"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速设为自动模式",
+    "value": "自动"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器风速设为自动",
+    "value": "自动"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "打开空气净化器的自动风速",
+    "value": "自动"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "开始将空气净化器设置为自动风速",
+    "value": "自动"
+  },
+
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "设置空气净化器风速最低",
+    "value": "一档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "把空气净化器风速设置到最低",
+    "value": "一档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "经空气净化器风速开到最小",
+    "value": "一档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空调净化器吹风开到最小",
+    "value": "一档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "把空气净化器的风速设置到一档",
+    "value": "一档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速一档",
+    "value": "一档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速开到最慢",
+    "value": "一档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速最小",
+    "value": "一档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速设到一档",
+    "value": "一档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速最低",
+    "value": "一档"
+  },
+
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速设置到稍弱一点",
+    "value": "二档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速设置到二档",
+    "value": "二档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "把空气净化器风速设置到二档",
+    "value": "二档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器的风速设置成二档",
+    "value": "二档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "设置空气净化器风速为二档",
+    "value": "二档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速调到二档",
+    "value": "二档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器调到风速二档",
+    "value": "二档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "打开空气净化器的二档风速",
+    "value": "二档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速设置为二档",
+    "value": "二档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器设置成为二档风速",
+    "value": "二档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "设定空气净化器为二档风速",
+    "value": "二档"
+  },
+
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "把空气净化器风速设置为三档",
+    "value": "三档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速适中",
+    "value": "三档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "设定适当的空气净化器风速",
+    "value": "三档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器风速设为适当",
+    "value": "三档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器开到中等风速",
+    "value": "三档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "设置空气净化器到三档风速",
+    "value": "三档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让我们设置空气净化器适当风速",
+    "value": "三档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器设置到适当风速",
+    "value": "三档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "设置空气净化器三档风速",
+    "value": "三档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速三档",
+    "value": "三档"
+  },
+
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器设置到四档",
+    "value": "四档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "打开空气净化器四档风速",
+    "value": "四档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器转到四档风速",
+    "value": "四档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "打开空气净化器的四档风速",
+    "value": "四档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器设置到四档",
+    "value": "四档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器风速设置稍强一点",
+    "value": "四档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速设置到稍强一点",
+    "value": "四档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器设置为四档风速",
+    "value": "四档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器设置到四档风速",
+    "value": "四档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器四档风速",
+    "value": "四档"
+  },
+
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速最大",
+    "value": "五档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器风速设置到最大",
+    "value": "五档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器风速设置到强劲",
+    "value": "五档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速五档",
+    "value": "五档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器风速开到五档",
+    "value": "五档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速设置为五档",
+    "value": "五档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "打开空气净化器五档风速",
+    "value": "五档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速开到最大",
+    "value": "五档"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器风速设置最大",
+    "value": "五档"
+  },
+
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器加快风速",
+    "value": "调大"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器提高风速",
+    "value": "调大"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速加快",
+    "value": "调大"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速快一点",
+    "value": "调大"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "把空气净化器风速开大一点",
+    "value": "调大"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "提高空气净化器风速",
+    "value": "调大"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "调大空气净化器风速",
+    "value": "调大"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器风速开大一点",
+    "value": "调大"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器风速加快一点",
+    "value": "调大"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速快一点",
+    "value": "调大"
+  },
+
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "把空气净化器风速调小",
+    "value": "调小"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速慢一点",
+    "value": "调小"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "将空气净化器风速调弱一点",
+    "value": "调小"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器的风速再慢一点",
+    "value": "调小"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速再低一点",
+    "value": "调小"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器风速再小一点",
+    "value": "调小"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "空气净化器风速调弱",
+    "value": "调小"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "让空气净化器吹风慢一点",
+    "value": "调小"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "减慢空气净化器吹风",
+    "value": "调小"
+  },
+  {
+    "Command_word": "风速",
+    "domain": "空气净化器",
+    "text": "减弱空气净化器风速",
+    "value": "调小"
+  }
+
+]

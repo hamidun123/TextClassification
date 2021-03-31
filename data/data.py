@@ -52,9 +52,9 @@ def turn_data_2_num(data_file, args, no_noise=True):
         else:
             i_text = [word_2_num_padding.get(word, word_2_num_padding["UNK"]) for word in i["text"].split()]
         data_text.append(i_text)
-        data_domain.append(label_2_id[0][i["domain"]])
-        data_command.append(label_2_id[1][i["Command_word"]])
-        data_value.append(label_2_id[2][i["value"]])
+        data_domain.append(label_2_id["domain"][i["domain"]])
+        data_command.append(label_2_id["command"][i["Command_word"]])
+        data_value.append(label_2_id["value"][i["value"]])
 
     return data_text, data_domain, data_command, data_value
 

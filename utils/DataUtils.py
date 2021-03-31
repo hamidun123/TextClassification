@@ -3,12 +3,13 @@ from collections import Counter
 import numpy as np
 import matplotlib.pyplot as plt
 import sys
+import os
 from pypinyin import lazy_pinyin, Style
 
 
 def label_2_id(file_lists):
     command_word = []
-    domain = ["空调", "灯", "None"]
+    domain = ["空调", "灯", "空气净化器", "None"]
     value = []
     for flie in file_lists:
         with open(flie, "r", encoding="UTF-8") as f:
@@ -27,54 +28,59 @@ def label_2_id(file_lists):
     id_list = [i for i in range(len(domain))]
     domain_dict = dict(zip(domain, id_list))
 
+    final_dict = {"domain": domain_dict, "command": command_word_dict, "value": value_dict}
+
     with open("../DataSet/label_2_id.json", "w", encoding="UTF-8") as f:
-        json.dump(domain_dict, f, ensure_ascii=False, indent=4, separators=(',', ': '))
-        json.dump(command_word_dict, f, ensure_ascii=False, indent=4, separators=(',', ': '))
-        json.dump(value_dict, f, ensure_ascii=False, indent=4, separators=(',', ': '))
+        json.dump(final_dict, f, ensure_ascii=False, indent=4, separators=(',', ': '))
+        # json.dump(command_word_dict, f, ensure_ascii=False, indent=4, separators=(',', ': '))
+        # json.dump(value_dict, f, ensure_ascii=False, indent=4, separators=(',', ': '))
 
 
-def divide_data(origin_data_file, train_data_file, test_data_file):
+def divide_data(origin_folder, train_data_file, test_data_file):
     """
     数据集划分程序
     :param test_data_file: 测试集
     :param train_data_file: 训练集
-    :param origin_data_file: 原始数据集
+    :param origin_data_file: 原始数据集文件夹
     :return: None
     """
-    with open(origin_data_file, "r", encoding="UTF-8") as f:
-        data = json.load(f)
-
-    # 获取label，并构造label_2_id
-    data_label = []
-    for i in data:
-        i_label = i["Command_word"] + i["value"]
-        data_label.append(i_label)
-    data_label_counter = Counter(data_label)
-    label_list = [i for i in data_label_counter]
-    id_list = [i for i in range(len(label_list))]
-    label_2_id = dict(zip(label_list, id_list))
-
-    # 将数据按label重排
-    new_data = [[] for i in label_list]
-    for i in data:
-        i_label = i["Command_word"] + i["value"]
-        new_data[label_2_id[i_label]].append(i)
-
-    # 构建训练集和测试集
+    file_list = os.listdir(origin_folder)
     train_data = []
     test_data = []
-    for i in new_data:
-        index = np.arange(len(i))
-        train_index = np.random.choice(index, round(len(i) * 0.7), replace=False)
-        test_index = [i for i in index if i not in train_index]
-        train_data_ = []
-        test_data_ = []
-        for j in train_index:
-            train_data_.append(i[j])
-        for k in test_index:
-            test_data_.append(i[k])
-        train_data += train_data_
-        test_data += test_data_
+    for file_name in file_list:
+        with open(origin_folder+file_name, "r", encoding="UTF-8") as f:
+            data = json.load(f)
+
+        # 获取label，并构造label_2_id
+        data_label = []
+        for i in data:
+            i_label = i["Command_word"] + i["value"]
+            data_label.append(i_label)
+        data_label_counter = Counter(data_label)
+        label_list = [i for i in data_label_counter]
+        id_list = [i for i in range(len(label_list))]
+        label_2_id = dict(zip(label_list, id_list))
+
+        # 将数据按label重排
+        new_data = [[] for i in label_list]
+        for i in data:
+            i_label = i["Command_word"] + i["value"]
+            new_data[label_2_id[i_label]].append(i)
+
+        # 构建训练集和测试集
+
+        for i in new_data:
+            index = np.arange(len(i))
+            train_index = np.random.choice(index, round(len(i) * 0.7), replace=False)
+            test_index = [i for i in index if i not in train_index]
+            train_data_ = []
+            test_data_ = []
+            for j in train_index:
+                train_data_.append(i[j])
+            for k in test_index:
+                test_data_.append(i[k])
+            train_data += train_data_
+            test_data += test_data_
 
     # 保存数据集
     with open(train_data_file, "w", encoding="UTF-8") as f:
@@ -118,10 +124,8 @@ def add_domain(file):
 
 
 if __name__ == "__main__":
-    # divide_data("../DataSet/air_conditioner_data.json", "../DataSet/train.json", "../DataSet/test.json")
-    # convert_to_zhuyin("../DataSet/test.json", "../DataSet/test_zhuyin.json")
-    # convert_to_zhuyin("../DataSet/train.json", "../DataSet/train_zhuyin.json")
-    # label_2_id = get_label_2_id("../DataSet/Command_words.json")
-    # plot_data_distribute("../DataSet/air_conditioner_data.json")
-    # print(label_2_id)
+    # divide_data("../DataSet/original_data/", "../DataSet/train.json", "../DataSet/test.json")
+    # convert_to_zhuyin("../DataSet/joint_data/test.json", "../DataSet/joint_data/test_zhuyin.json")
+    # convert_to_zhuyin("../DataSet/joint_data/train.json", "../DataSet/joint_data/train_zhuyin.json")
+    # label_2_id(["../DataSet/light_command_word.json", "../DataSet/air_command_word.json"])
     pass

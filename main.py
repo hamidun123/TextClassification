@@ -31,11 +31,11 @@ test_loader = Data.DataLoader(data.MyDataSet(test_data, test_length, test_domain
 model = getattr(models, "LSTM_ATT")(args)
 
 
-train.train(train_loader, test_loader, model, args, writer)
+# train.train(train_loader, test_loader, model, args, writer)
 
-zhuyin_predict(["空调风速还可以再高一点吗", "让空调风速再强一点", "空调调高温度"], model, args)
+zhuyin_predict(["空气净化器风速加快", "让空气净化器风速弱一点", "空气净化器关闭", "我们出去玩耍"], model, args)
 
-zhuyinlist = ["ㄖㄤˋ ㄎㄨㄥ ㄊㄧㄠˊ ㄈㄥ ㄙㄨˋ ㄥˋ ㄉㄨㄥˋ"]
+zhuyinlist = ["ㄐㄧㄤ ㄨㄥ ㄊㄧㄠˊ ㄥ ㄙㄨˋ ㄉㄧㄠˋ ㄍㄠ"]
 predict(zhuyinlist, model, args)
 
 
